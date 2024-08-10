@@ -1,0 +1,3 @@
+,Database_connection,Database Name,Table Name,Column Name
+0,excel-direct,Finance Data.xlsx,'Revenue Analysis$',NET_REALIZED_CAPITAL_GAIN
+1,excel-direct,Finance Data.xlsx,'Revenue Analysis$',YEAR

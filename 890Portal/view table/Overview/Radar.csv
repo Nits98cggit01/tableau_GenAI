@@ -1,0 +1,5 @@
+,Database_connection,Database Name,Table Name,Column Name
+0,excel-direct,Radar Data.xlsx,Sheet1,Metrics
+1,excel-direct,Radar Data.xlsx,Sheet1,Capacity
+2,excel-direct,Radar Data.xlsx,Sheet1,Current
+3,excel-direct,Radar Data.xlsx,Sheet1,Location

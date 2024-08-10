@@ -1,0 +1,4 @@
+,Database_connection,Database Name,Table Name,Column Name
+0,excel-direct,NPS Metrics.xlsx,Sheet1,Year
+1,excel-direct,NPS Metrics.xlsx,Sheet1,NPS (Org)
+2,excel-direct,NPS Metrics.xlsx,Sheet1,NPS (Industry)

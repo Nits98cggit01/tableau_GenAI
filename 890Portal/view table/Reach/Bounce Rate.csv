@@ -1,0 +1,9 @@
+,Database_connection,Database Name,Table Name,Column Name
+0,excel-direct,Transactions.xlsx,First,Date
+1,excel-direct,Transactions.xlsx,First,Month
+2,excel-direct,Transactions.xlsx,First,Source
+3,excel-direct,Transactions.xlsx,First,Year
+4,excel-direct,Transactions.xlsx,Reach,Homepage
+5,excel-direct,Transactions.xlsx,Reach,Visit
+6,excel-direct,Transactions.xlsx,First,Campaign
+7,excel-direct,Transactions.xlsx,Reach,New

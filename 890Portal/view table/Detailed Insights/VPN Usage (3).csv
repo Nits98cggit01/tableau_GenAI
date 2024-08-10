@@ -1,0 +1,6 @@
+,Database_connection,Database Name,Table Name,Column Name
+0,excel-direct,VPN - Copy.XLSX,Sheet1,Date
+1,excel-direct,VPN - Copy.XLSX,Sheet1,Time
+2,excel-direct,VPN - Copy.XLSX,Sheet1,Location
+3,excel-direct,VPN - Copy.XLSX,Sheet1,VPN Employee
+4,excel-direct,VPN - Copy.XLSX,Sheet1,VPN Warning Zone

@@ -1,0 +1,185 @@
+Dashboards identified where views are exposed - 3
+
+Project : Default
+
+Workbook : Consolidated Cookbook
+1) Comparison of Financial metrics
+2) Comparison of People metrics
+
+Workbook : Recruitment Dashboard
+1) Dashboard
+
+-------------------------------------------------------
+Dashboard where views are not exposed - 77
+
+Workbook : CMO Dashboard
+1) Dashboard1
+2) Reach
+3) Promotion Effect
+4) Conversion
+5) Content
+
+Workbook : Covid19 External v6
+1) Executive Dashboard
+2) Account risk
+3) GDP Impact
+4) Human Impact
+5) Geo Industry Risk
+6) Covid Impact on Employee
+
+Workbook : Invoice
+1) Tax
+2) Gross
+
+...
+
+-------------------------------------------------------
+Steps : 
+1) Identify the views in the Dashboard
+2) Check if the views are exposed or not
+-> If views are exposed, then no issue, we have metadata (Both Template matching and Narration is possible)
+-> If views are not exposed, then do image processing (Template matching is possible ; Narration is not possible)
+
+Approach
+1) Split the Dasboard image into separate views
+2) Using tesseract, identify the view name of the Dashboard
+3) Using tesseract, try to identify the coordinates
+
+------------------------------------------------------
+
+Hi Juhi,
+Please find the update on our Tableau Integration usecase
+
+Inferences
+1) From the discussion we had with Samba, we got to know that there are two ways that Dashboards will be published,
+- Publishing dashboard with the views exposed
+- Publishing only the dashboard
+2) We are able to identify the different views that are present in a site
+
+We need support on the below points
+1) While discussing with Samba and checking with the articles online, the Dashboard metadata can be identified/extracted using Postgres - We may need Postgres access and technical support to connect Tableau with the Postgresql server.
+2) To identify the views that are associated with each Dashboard
+3) To extract views of the Dashboard in the form of flatfile (csv,excel)
+
+Requirement
+1) Postgres server credentials
+2) SME support to connect Tableau server with Postgres
+3) Extracting Dashboard metadata using Postgres
+
+1) Understanding on Tableau Dashboard, what are the views present in the Dashboard
+-> The views can be visible only in the Tableau Desktop - Incase of only publishing the Dashboards
+-> Edit - Views will be visible
+
+2) From our analysis, types of Dashboard
+
+3) Support for extracting metadata from Dashboard like views, columns, title and viztype
+-> Get access to Postgres, connect and fetch the metadata from there
+-> Need to check with Anjan
+
+
+--------------------
+
+1) Check if measure and dimension can be extracted
+2) Metadata enrichment - LLM description
+-> For each visual by giving lineage data
+
+3) Semantic search to get the best fit of user query
+Reuse the template matching for step 2 and 3
+
+
+
+6) On choosing Dashboard metadata extraction option, a new page should be loaded where there will be 3 dropdowns in the sidebar namely Project Name, Workbook Name and Dashboard Name, for now fill it with some random options in the dropdown, make sure you have 'Choose an option' in the dropdown by default, once choosing all 3 options, the main area should display "You have chosen the Project Name - Project; the Workbook Name - Workbook and the Dashboard - Dashboard Name
+7) On choosing Template matching option, display a text box 'Query' where the user can type their query and a button 'Check', on clicking 'Check', display the query
+8) On choosing Report narration option, a new page should be loaded where there will be 3 dropdowns in the sidebar namely Project Name, Workbook Name and Dashboard Name, for now fill it with some random options in the dropdown, make sure you have 'Choose an option' in the dropdown by default, once choosing all 3 options, the main area should display "You have chosen the Project Name - Project; the Workbook Name - Workbook and the Dashboard - Dashboard Name
+
+Site_name,Project_name,Workbook_name,Dashboard_name,Sheet_name,Datasource_name,Database_name,Database_connection,Number of columns,Column_name,Table_name,Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------
+
+https://litbricks.streamlit.app/
+https://matthewmccoy6.medium.com/chatting-with-your-delta-tables-using-databricks-connect-streamlit-and-databricks-model-serving-692bf27230d8
+
+
+Server - http://10.100.252.218/
+PAT Name - rest_token
+PAT Key - zL6zdQRgS9WQYH24aGR4JQ==:7yDTI0BCA6XlNxOm24YDN6S3B6673Nyn
+IMAmcS20SQS+t6IxWZ2E3A==:L9CyORAYyqMJ4CjTw18eWsUQwpXjuWdr
+Site Name - 890Portal
+Environment Name - 890Portal
+
+
+Sheet that gives the analysis of promoters and detractors
+Sheet that gives trend analysis of Client over Years
+Analysis on Rural and Urban distribution
+Showing the distribution of promoters vs the detractors
+Sentiment analysis between Top promoters and Top detractors
+The trend of net investment income over the years
+Show me the sheet showing the inference of Premium earned over the years
+I want to create a report with Total revenue across year
+
+
+metadata for 
+site -> project -> workbook -> dashboard -> sheet/view
+
+1) workbook level by site ; 890Portal -> 5 project -> Report for workbook wise
+2) sheet level by site ; 890Portal -> 5 project -> Report for sheet wise
+
+
+Sequence
+Database connection -> Database Name -> Table Names -> Column Names
+
+
+Hi Everyone,
+Please find below the MoM for the Tableau Integration with Gen AI - Demo and Next steps - Friday 19th July 2024, 3:30pm to 4:30pm
+
+Attendees : 
+1) Hebbar, Shrikant
+2) BHARADWAJ, JUHI
+3) Sagineni, Anjaneyulu
+4) Wakankar, Pooja
+5) Kumar, Amber
+6) Satish, Nitin
+
+Points Discussed :
+1) The Tableau Integration with Gen AI is demoed by Nitin
+2) The Demo session is recorded and is available in the Team's channel for further reference
+
+Action items :
+1) Few changes to the existing application was suggested by Shrikant and Anjan
+2) As per Anjan's suggestion 
+	In the generated metadata, the Table name should come before the Column name
+	As a part of metadata, the calculations and the derived column info may also be fetched
+	The template matching service has to be enhanced further on the UI to display the matching Tables, Columns and query wise
+3) As per Shrikant's suggestion - 
+	Suggesting better prompts for Rationalization, Anjan to connect with Nitin to discuss on the Rationalization prompts
+	Identifying the Duplicate sheet utility could be added to enhance productivity as manual search would be tedious and time consuming
+	Leverage Gen AI in suggesting a better Column names incase of duplication and in new report generation
+
+Priority list
+1) Functionality development and Incorporating Rationalization prompts
+2) Code refactoring - Conversion of our utility into Microservices API so that it can be infused with any UI
+3) Adding extra functionality on the Template matching - UI driven
+
+
+
+
+
+
+
+

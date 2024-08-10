@@ -1,0 +1,3 @@
+,Database_connection,Database Name,Table Name,Column Name
+0,excel-direct,Claim Data.xlsx,Sheet1,CYCLE TIME
+1,excel-direct,Claim Data.xlsx,Sheet1,ID

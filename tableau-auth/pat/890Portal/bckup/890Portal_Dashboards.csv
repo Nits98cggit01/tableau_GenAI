@@ -1,0 +1,81 @@
+,name,id,contentUrl,sheetType,viewUrlName,workbook_name,workbook_id
+0,Reach,6047b331-14cc-485b-a6a8-eeebdfd7f03a,CMO_Dashboard-WIP/sheets/Reach,dashboard,Reach,CMO_Dashboard-WIP,d7586af6-a1df-4f6e-8ccf-1399d76430e9
+1,Promotion Effect,c61b802a-8a5d-49fe-a6f9-91eb6e4ceea3,CMO_Dashboard-WIP/sheets/PromotionEffect,dashboard,PromotionEffect,CMO_Dashboard-WIP,d7586af6-a1df-4f6e-8ccf-1399d76430e9
+2,Conversion,608163b1-d010-4514-9277-f693d8c64b26,CMO_Dashboard-WIP/sheets/Conversion,dashboard,Conversion,CMO_Dashboard-WIP,d7586af6-a1df-4f6e-8ccf-1399d76430e9
+3,Dashboard 1,25d485af-bfc4-4451-9fbb-661888b37ff7,CMO_Dashboard/sheets/Dashboard1,dashboard,Dashboard1,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+4,Reach,cbcc0b15-9c83-40a6-aea0-6768593ad506,CMO_Dashboard/sheets/Reach,dashboard,Reach,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+5,Promotion Effect,2d15e4db-ea02-46ea-ae1c-4b23f43cc890,CMO_Dashboard/sheets/PromotionEffect,dashboard,PromotionEffect,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+6,Conversion,a31a6cc1-104f-4351-bd1a-df62814990b1,CMO_Dashboard/sheets/Conversion,dashboard,Conversion,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+7,Content,8cbc3450-ad21-461e-802e-ac82bfac5126,CMO_Dashboard/sheets/Content,dashboard,Content,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+13,Comparison of People Metrics,4c29991b-0b11-4243-8a1b-650f52e236d5,ConsolidatedCookbook/sheets/ComparisonofPeopleMetrics,dashboard,ComparisonofPeopleMetrics,Consolidated Cookbook,1e926ea4-d173-417f-9881-e1e78c94be30
+22,Comparison of Financial Metrics,2d0e3014-b2e0-4d3c-a07e-a0f2cb3a2b59,ConsolidatedCookbook/sheets/ComparisonofFinancialMetrics,dashboard,ComparisonofFinancialMetrics,Consolidated Cookbook,1e926ea4-d173-417f-9881-e1e78c94be30
+23,Overview,1f72d65f-4166-44ae-907f-bb783a1531a1,Healthcare-Fraud-Detection/sheets/Overview,dashboard,Overview,Healthcare-Fraud-Detection,0f86976a-79da-4f20-8642-7d118200d5c5
+24,Digital Healthcare Ecosystem,5111ec49-5d6e-4102-ba0a-4bdd2d4bd101,Healthcare-Fraud-Detection/sheets/DigitalHealthcareEcosystem,dashboard,DigitalHealthcareEcosystem,Healthcare-Fraud-Detection,0f86976a-79da-4f20-8642-7d118200d5c5
+25,Healthcare Insights from Data,c86451f1-daf8-4fdd-b19b-5b11bf7c036f,Healthcare-Fraud-Detection/sheets/HealthcareInsightsfromData,dashboard,HealthcareInsightsfromData,Healthcare-Fraud-Detection,0f86976a-79da-4f20-8642-7d118200d5c5
+26,Fraud Claims Dashboard,a93ce1c5-c0d7-40b3-a24d-415ada65467d,Healthcare-Fraud-Detection/sheets/FraudClaimsDashboard,dashboard,FraudClaimsDashboard,Healthcare-Fraud-Detection,0f86976a-79da-4f20-8642-7d118200d5c5
+28,Anomaly Detection,26144275-48db-425a-871a-cc98451f7269,HealthCareFraudulentClaims/sheets/AnomalyDetection,dashboard,AnomalyDetection,HealthCareFraudulentClaims,9a170fbf-aeb6-4f06-a958-2e934d969a53
+29,Network-Savings-Dashboard,f3772e7e-817b-4795-9ae3-dbbf609f3e8a,LossControl-Towing/sheets/Network-Savings-Dashboard,dashboard,Network-Savings-Dashboard,Loss Control-Towing,22b34d21-1131-4e40-b3bc-2e7670e69fb4
+30,Exceptions-Dashboard,3809bb07-3690-4c26-bc46-aed8bc6afb65,LossControl-Towing/sheets/Exceptions-Dashboard,dashboard,Exceptions-Dashboard,Loss Control-Towing,22b34d21-1131-4e40-b3bc-2e7670e69fb4
+31,Landing-Page-Dashboard,b43be72e-3b7c-478b-957a-ce51bb4a204b,LossControl-Towing/sheets/Landing-Page-Dashboard,dashboard,Landing-Page-Dashboard,Loss Control-Towing,22b34d21-1131-4e40-b3bc-2e7670e69fb4
+33,Dashboard Great Car Company,1e2e99fd-6a97-4b02-a05b-9d8cc941fec5,WorkbookforSpanishInsurancev3/sheets/DashboardGreatCarCompany,dashboard,DashboardGreatCarCompany,Workbook for Spanish Insurance v3,7e0f7a61-8822-42cd-962c-7f1afbf05031
+34,Overview,059e85ac-30d3-4ac5-b246-414dda975f6e,WFHAnalytics/sheets/Overview,dashboard,Overview,WFH Analytics,b18f1f44-03d7-4c6e-985f-feb2a4c64618
+35,Detailed Insights,dcede592-e082-4114-9989-a47d6d2ff7bc,WFHAnalytics/sheets/DetailedInsights,dashboard,DetailedInsights,WFH Analytics,b18f1f44-03d7-4c6e-985f-feb2a4c64618
+36,Overview,2e0f9ba3-cc85-4fea-9ccc-f8995f7bc1f7,WFHAnalyticsDraft/sheets/Overview,dashboard,Overview,WFH Analytics Draft,bb9c3646-1ed5-4672-98b2-7894bdde59de
+37,Detailed Insights,02cf7bae-8d05-4a4a-b98f-40e63a1cd327,WFHAnalyticsDraft/sheets/DetailedInsights,dashboard,DetailedInsights,WFH Analytics Draft,bb9c3646-1ed5-4672-98b2-7894bdde59de
+38,Executive Dashboard,c2829716-ea1c-405a-ae83-d679f50797da,Covid19InternalV6/sheets/ExecutiveDashboard,dashboard,ExecutiveDashboard,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+39,Account Risk,fb2e1d79-9f64-4936-b8bd-1520ac9992ff,Covid19InternalV6/sheets/AccountRisk,dashboard,AccountRisk,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+40,GDP Impact,e57ada42-bc18-4882-b091-78affe8bcf1c,Covid19InternalV6/sheets/GDPImpact,dashboard,GDPImpact,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+41,Human Impact,e878ddad-a6a9-4cdb-8048-c626b6a6fa95,Covid19InternalV6/sheets/HumanImpact,dashboard,HumanImpact,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+42,Booking Sales and Pipeline,898e42c8-fe0f-4a0c-b340-245b53748849,Covid19InternalV6/sheets/BookingSalesandPipeline,dashboard,BookingSalesandPipeline,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+43,Geo Industry Risk,b87c4219-f8de-4b21-aa3a-371839950bfc,Covid19InternalV6/sheets/GeoIndustryRisk,dashboard,GeoIndustryRisk,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+44,Executive Dashboard,3e543fe5-4727-41d4-9307-8f77494723b9,Covid19ExternalV6/sheets/ExecutiveDashboard,dashboard,ExecutiveDashboard,Covid 19 External V6,67615e58-c58e-456b-a835-67913e006c98
+45,Account Risk,ea21261b-802d-4747-8a98-c6246a014e81,Covid19ExternalV6/sheets/AccountRisk,dashboard,AccountRisk,Covid 19 External V6,67615e58-c58e-456b-a835-67913e006c98
+46,GDP Impact,bad920f4-1e21-4d5b-9a44-bc486dab94be,Covid19ExternalV6/sheets/GDPImpact,dashboard,GDPImpact,Covid 19 External V6,67615e58-c58e-456b-a835-67913e006c98
+47,Human Impact,102681bd-64ed-4ace-8950-340b9667a599,Covid19ExternalV6/sheets/HumanImpact,dashboard,HumanImpact,Covid 19 External V6,67615e58-c58e-456b-a835-67913e006c98
+48,Geo Industry Risk,5cec27d0-ee0f-4de1-ae31-57de22b45daf,Covid19ExternalV6/sheets/GeoIndustryRisk,dashboard,GeoIndustryRisk,Covid 19 External V6,67615e58-c58e-456b-a835-67913e006c98
+49,Covid Impact on Employee Predictor,2fc43911-d1bd-43d4-9f8c-516137095c93,Covid19ExternalV6/sheets/CovidImpactonEmployeePredictor,dashboard,CovidImpactonEmployeePredictor,Covid 19 External V6,67615e58-c58e-456b-a835-67913e006c98
+50,Dashboard Great Car Company,4a8615cd-25f8-4707-b47b-688177de27e5,WorkbookforSpanishInsuranceEnglish/sheets/DashboardGreatCarCompany,dashboard,DashboardGreatCarCompany,Workbook for Spanish Insurance(English),afc01518-8ecf-4065-8d9d-eefbe1fdeaea
+51,Covid FTE Projector,ee9224c2-0bb2-471d-9ba0-492f4f684048,Covid19InternalV6/sheets/CovidFTEProjector,dashboard,CovidFTEProjector,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+52,Booking Sales and Pipeline (2),0e17ec1c-d652-4c46-a471-e37343513902,Covid19InternalV6/sheets/BookingSalesandPipeline2,dashboard,BookingSalesandPipeline2,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+53,Booking Sales and Pipeline (3),61be50d6-55f8-41b7-bee8-fee121859c46,Covid19InternalV6/sheets/BookingSalesandPipeline3,dashboard,BookingSalesandPipeline3,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+54,ESG Insights Dashboard,ba09f038-ba6c-4a73-92c5-4af3bb29645c,ESGInsights/sheets/ESGInsightsDashboard,dashboard,ESGInsightsDashboard,ESG Insights,0091cb7a-2076-42ff-9914-3dc59d228cb3
+55,Gross by Genre,fb2a7e6c-1a36-443a-bbe9-1ce379eccdfe,Peek-a-Insights/sheets/Dashboard1,dashboard,Dashboard1,Peek-a-Insights,9550d859-b553-4844-8d1e-5e74460551dc
+56,Gross by Rating & Runtime,76d79e4b-06bf-414e-9314-acc1c79eec84,Peek-a-Insights/sheets/Dashboard2,dashboard,Dashboard2,Peek-a-Insights,9550d859-b553-4844-8d1e-5e74460551dc
+57,Gross By Certification & Public Poles,e122d57c-17aa-4670-b184-aa265d12ae7c,Peek-a-Insights/sheets/Dashboard3,dashboard,Dashboard3,Peek-a-Insights,9550d859-b553-4844-8d1e-5e74460551dc
+58,Gross By IMDB Ratings,c183ebaf-2dd0-4d75-a091-f9a733277b2a,Peek-a-Insights/sheets/Dashboard4,dashboard,Dashboard4,Peek-a-Insights,9550d859-b553-4844-8d1e-5e74460551dc
+59,Total Invoice,f2320bbc-1fb8-4715-af99-4da5b3e3062a,Invoice/sheets/Dashboard1,dashboard,Dashboard1,Invoice,831c0309-0577-4f0b-8f0f-e56e816914af
+60,Tax,1fcf4db5-fe32-4952-b470-111b31034879,Invoice/sheets/Dashboard2,dashboard,Dashboard2,Invoice,831c0309-0577-4f0b-8f0f-e56e816914af
+61,Gross,22cc7cb5-aa96-41ee-b624-bc8da9e65bce,Invoice/sheets/Dashboard3,dashboard,Dashboard3,Invoice,831c0309-0577-4f0b-8f0f-e56e816914af
+62,Asset Allocation,d950cdd8-1471-4ae4-8cb5-2b05b79a0ade,BacktestAssetAllocationDashboard/sheets/AssetAllocation,dashboard,AssetAllocation,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+63,Portfolio Performance,38287d99-8f79-4d79-a601-7d74b6ba3039,BacktestAssetAllocationDashboard/sheets/PortfolioPerformance,dashboard,PortfolioPerformance,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+64,Portfolio Growth and Returns,a9aacc3d-d5fd-4e96-957c-28752966d05d,BacktestAssetAllocationDashboard/sheets/PortfolioGrowthandReturns,dashboard,PortfolioGrowthandReturns,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+65,Annual Returns and Balance Data,4feb11fd-c36d-4a65-aeec-11ab6ebd151d,BacktestAssetAllocationDashboard/sheets/AnnualReturnsandBalanceData,dashboard,AnnualReturnsandBalanceData,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+66,Risk and Return Metrics,902a5cd3-f337-4b2f-8a9c-ba4261194ce3,BacktestAssetAllocationDashboard/sheets/RiskandReturnMetrics,dashboard,RiskandReturnMetrics,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+67,Drawdowns,db6ea5ed-c199-4e10-a6d1-062ed4ce449a,BacktestAssetAllocationDashboard/sheets/Drawdowns,dashboard,Drawdowns,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+68,Portfolio Analysis,34a26b80-9d0e-44c5-8245-f730edefa0db,BacktestAssetAllocationDashboard/sheets/PortfolioAnalysis,dashboard,PortfolioAnalysis,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+69,Rolling Returns Analysis,73dc69d9-1dda-49da-9517-aeb5cdca352b,BacktestAssetAllocationDashboard/sheets/RollingReturnsAnalysis,dashboard,RollingReturnsAnalysis,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+70,Rolling Returns Trend,8f6f1972-998a-40bf-b618-c146ce7c28ab,BacktestAssetAllocationDashboard/sheets/RollingReturnsTrend,dashboard,RollingReturnsTrend,Backtest Asset Allocation Dashboard,2b45ecc4-f9b5-4794-b8b9-f55d2d30d996
+71,Asset Allocation,4a6577c2-2728-4a9c-a4b4-98df56376e31,BacktestAssetAllocationDashboardv3/sheets/AssetAllocation,dashboard,AssetAllocation,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+72,Portfolio Performance,a7122bb9-ea8d-48c0-b87d-f1adfed83eb1,BacktestAssetAllocationDashboardv3/sheets/PortfolioPerformance,dashboard,PortfolioPerformance,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+73,Portfolio Growth and Returns,98a4f7be-e453-4192-b317-1b935b6215f9,BacktestAssetAllocationDashboardv3/sheets/PortfolioGrowthandReturns,dashboard,PortfolioGrowthandReturns,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+74,Annual Returns and Balance Data,1a283348-c210-479b-ab8f-b9537702a1db,BacktestAssetAllocationDashboardv3/sheets/AnnualReturnsandBalanceData,dashboard,AnnualReturnsandBalanceData,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+75,Risk and Return Metrics,76bf1e9e-c6af-4a1d-b58a-1c744f53ab16,BacktestAssetAllocationDashboardv3/sheets/RiskandReturnMetrics,dashboard,RiskandReturnMetrics,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+76,Drawdowns,dbf1b23f-b3a6-43db-8bab-736867ca1474,BacktestAssetAllocationDashboardv3/sheets/Drawdowns,dashboard,Drawdowns,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+77,Portfolio Analysis,d9adf09f-7bb4-461a-81ac-e67985cbaeea,BacktestAssetAllocationDashboardv3/sheets/PortfolioAnalysis,dashboard,PortfolioAnalysis,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+78,Rolling Returns Analysis,dcf58461-2eeb-4271-8bba-539a059c8d79,BacktestAssetAllocationDashboardv3/sheets/RollingReturnsAnalysis,dashboard,RollingReturnsAnalysis,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+79,Rolling Returns Trend,2aabae70-9e33-4971-8df1-a797fd93a40a,BacktestAssetAllocationDashboardv3/sheets/RollingReturnsTrend,dashboard,RollingReturnsTrend,Backtest Asset Allocation Dashboard v3,17e82041-66b3-4982-839d-815b0d549bc7
+81,Dashboard 1,75304149-f243-4630-aef9-998aade0a44a,GHGEmission/sheets/Dashboard1,dashboard,Dashboard1,GHG Emission,b48ce533-e92f-48dd-bdd7-3f983f79e0b2
+82,Car Track At Port,1c287bae-09c9-4512-9bd5-3d36fbbd2854,dummy_new/sheets/CarTrackAtPort,dashboard,CarTrackAtPort,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+83,Car Track At Inland,7593a9fd-ce66-4253-92d1-b8027cb93a75,dummy_new/sheets/CarTrackAtInland,dashboard,CarTrackAtInland,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+84,Mumbai Port_Demographic,eab01a97-3521-4f4b-b48a-06c976224efa,dummy_new/sheets/MumbaiPort_Demographic,dashboard,MumbaiPort_Demographic,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+85,Chennai Port_Demographic,c52441d6-fd4d-410d-b6bc-548b054df85b,dummy_new/sheets/ChennaiPort_Demographic,dashboard,ChennaiPort_Demographic,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+86,Mumbai Port_Car,bc572ef1-3288-4d6c-b1d2-134478c1bb0f,dummy_new/sheets/MumbaiPort_Car,dashboard,MumbaiPort_Car,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+87,Chennai Port_Car,31c28f01-8d9e-4b07-b9bd-140f3cac44bc,dummy_new/sheets/ChennaiPort_Car,dashboard,ChennaiPort_Car,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+88,Dealer Analysis,5e75578b-19d4-4cc4-b5c9-a30170c35be2,dummy_new/sheets/DealerAnalysis,dashboard,DealerAnalysis,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+89,City Level Analysis,f20b37f1-dc2c-4877-a201-3ca7cab58675,dummy_new/sheets/CityLevelAnalysis,dashboard,CityLevelAnalysis,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+90,Glossary,101cebf1-9d29-42bf-a218-48b2dfcb6140,dummy_new/sheets/Glossary,dashboard,Glossary,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+91,Dashboard 1,fab70a97-45a5-42b2-9d4f-9ed69205c1e9,PeakonFS/sheets/Dashboard1,dashboard,Dashboard1,Peakon FS,a42726fe-6441-492d-86d0-f2ca0caf7256
+92,Dashboard 2,28c4798c-a313-4e8f-b415-ebfe16d6e5d0,PeakonFS/sheets/Dashboard2,dashboard,Dashboard2,Peakon FS,a42726fe-6441-492d-86d0-f2ca0caf7256
+95,TS Background Tasks,b5b2f7f1-84a3-4e2a-899c-a46d0599c937,ts_background_tasks_04_01/sheets/TSBackgroundTasks,dashboard,TSBackgroundTasks,ts_background_tasks_04.01,19708d8d-f964-4448-81e7-9dea0f03b09c
+98,Dashboard,ed7971fd-722a-407a-bb0e-9163bc7cbcbc,RecruitmentDashboard/sheets/Dashboard,dashboard,Dashboard,Recruitment Dashboard,2634ad0c-d76e-4827-8a71-c57c7bc2fd33
+99,Dashboard 2,88aa4c67-c227-4225-bab3-ced5965353fe,RecruitmentDashboard/sheets/Dashboard2,dashboard,Dashboard2,Recruitment Dashboard,2634ad0c-d76e-4827-8a71-c57c7bc2fd33

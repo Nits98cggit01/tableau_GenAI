@@ -1,0 +1,10 @@
+Buy/Sell,Client,Exchange,Last Traded
+Buy,Client B,10 year Treasury Bond,10/3/2019
+Buy,Client B,S&P,3/24/2020
+Buy,Client C,S&P,12/18/2019
+Buy,Client A,S&P,7/21/2020
+Sell,Client B,S&P,12/19/2019
+Sell,Client C,10 year Treasury Bond,5/19/2020
+Sell,Client C,S&P,2/1/2020
+Sell,Client A,10 year Treasury Bond,3/4/2020
+Sell,Client A,S&P,10/11/2019

@@ -1,0 +1,81 @@
+query1 = 
+'''
+{{
+        dashboards (filter: {{luid: "{luid}"}}) {{
+            id
+            name
+            index
+            upstreamTables {{
+            id
+            }}
+            upstreamFields {{
+            id
+            }}
+            upstreamDatabases {{
+            id
+            name
+            connectionType
+            }}
+            upstreamDatasources {{
+            id
+            name
+            }}
+            luid
+            documentViewId
+            sheets {{
+            id
+            name
+            }}
+        }}
+        }}
+'''
+
+--------------------------------------------
+
+sheet level info
+
+{
+  dashboards (filter: {luid: "4c29991b-0b11-4243-8a1b-650f52e236d5"}) {
+    id
+    name
+    index
+    luid
+    documentViewId
+    sheets {
+      id
+      name
+      upstreamTables {
+        id
+        name
+        columns {
+          id
+        }
+      }
+      upstreamFields {
+        id
+        name
+        isHidden
+        directSheets {
+          id
+        }
+      }
+      upstreamColumns {
+        id
+        name
+        isNullable
+      }
+      upstreamDatabases {
+        id
+        name
+        connectionType
+      }
+      upstreamDatasources {
+        id
+        name
+        datasourceFilters {
+          id
+        }
+      }
+    }
+  }
+}

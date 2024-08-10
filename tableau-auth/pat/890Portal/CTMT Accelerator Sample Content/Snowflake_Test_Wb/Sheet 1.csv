@@ -1,0 +1,7 @@
+Travelcategory,Traveltype,Cost
+Abroad,Private,"1,133,208"
+Abroad,Rental,"2,823,051"
+Abroad,Unknown,"114,843"
+Local,Rental,"9,754"
+Local,Unknown,"231,798"
+Unknown,Rental,696

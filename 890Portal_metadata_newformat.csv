@@ -1,0 +1,1136 @@
+,Site_name,Project_name,Workbook_name,Dashboard_name,Datasource_name,Database_name,Database_connection,Column_name,Table_name
+795,890Portal,Default,Covid 19 External V6,Geo Industry Risk,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Expected Impact on Capgemini,Account Risk$
+793,890Portal,Default,Covid 19 External V6,Geo Industry Risk,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Industry,Account Risk$
+696,890Portal,Default,Covid 19 External V6,Executive Dashboard,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Industry,Account Risk$
+697,890Portal,Default,Covid 19 External V6,Executive Dashboard,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Client,Account Risk$
+698,890Portal,Default,Covid 19 External V6,Executive Dashboard,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,News Mentions,Account Risk$
+794,890Portal,Default,Covid 19 External V6,Geo Industry Risk,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Country,Account Risk$
+728,890Portal,Default,Covid 19 External V6,Executive Dashboard,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Impact,Account Risk$
+737,890Portal,Default,Covid 19 External V6,Account Risk,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Industry,Account Risk$
+792,890Portal,Default,Covid 19 External V6,Geo Industry Risk,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Impact,Account Risk$
+790,890Portal,Default,Covid 19 External V6,Geo Industry Risk,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,Client,Account Risk$
+791,890Portal,Default,Covid 19 External V6,Geo Industry Risk,Account Risk (Copy of risk_Tab),Copy of risk_Tab v2.xlsx,excel-direct,News Mentions,Account Risk$
+1198,890Portal,Default,Backtest Asset Allocation Dashboard v3,Asset Allocation,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Asset Allocation$
+1197,890Portal,Default,Backtest Asset Allocation Dashboard v3,Asset Allocation,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Asset Class,Asset Allocation$
+1195,890Portal,Default,Backtest Asset Allocation Dashboard v3,Asset Allocation,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Target Allocation  (%),Asset Allocation$
+1199,890Portal,Default,Backtest Asset Allocation Dashboard v3,Asset Allocation,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Actual Allocation (%),Asset Allocation$
+1205,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Performance,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Performance Values,Portfolio Performance$
+1206,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Performance,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Metric,Portfolio Performance$
+1207,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Performance,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1218,890Portal,Default,Backtest Asset Allocation Dashboard v3,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1212,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Growth and Returns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1260,890Portal,Default,Backtest Asset Allocation Dashboard v3,Rolling Returns Analysis,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Rolling Returns$
+1261,890Portal,Default,Backtest Asset Allocation Dashboard v3,Rolling Returns Trend,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Annualized return,Rolling Returns$
+1262,890Portal,Default,Backtest Asset Allocation Dashboard v3,Rolling Returns Trend,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Year,Annual returns$
+1263,890Portal,Default,Backtest Asset Allocation Dashboard v3,Rolling Returns Trend,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Rolling Period (Years),Rolling Returns$
+1264,890Portal,Default,Backtest Asset Allocation Dashboard v3,Rolling Returns Trend,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Rolling Returns$
+1239,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Start,Drawdowns for Historical Market$
+1238,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,End,Drawdowns for Historical Market$
+1237,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Drawdowns (%),Drawdowns for Historical Market$
+1236,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1235,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Stress Period,Drawdowns for Historical Market$
+1234,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Recovery By,Worst 10 Drawdowns$
+1233,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Start,Worst 10 Drawdowns$
+1232,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,End,Worst 10 Drawdowns$
+1193,890Portal,Default,Backtest Asset Allocation Dashboard v3,Asset Allocation,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1231,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Rank,Worst 10 Drawdowns$
+1228,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Recovery Time,Worst 10 Drawdowns$
+1227,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Underwater Period,Worst 10 Drawdowns$
+1226,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Drawdown (%),Worst 10 Drawdowns$
+1222,890Portal,Default,Backtest Asset Allocation Dashboard v3,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Inflation (%),Annual returns$
+1221,890Portal,Default,Backtest Asset Allocation Dashboard v3,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Returns (%),Annual returns$
+1220,890Portal,Default,Backtest Asset Allocation Dashboard v3,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Balance,Annual returns$
+1219,890Portal,Default,Backtest Asset Allocation Dashboard v3,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Year,Annual returns$
+1217,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Growth and Returns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Balance,Annual returns$
+1216,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Growth and Returns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Year,Annual returns$
+1214,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Growth and Returns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Returns (%),Annual returns$
+1230,890Portal,Default,Backtest Asset Allocation Dashboard v3,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Length,Worst 10 Drawdowns$
+1189,890Portal,Default,Backtest Asset Allocation Dashboard,Rolling Returns Trend,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Rolling Period (Years),Rolling Returns$
+1190,890Portal,Default,Backtest Asset Allocation Dashboard,Rolling Returns Trend,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Rolling Returns$
+1144,890Portal,Default,Backtest Asset Allocation Dashboard,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1145,890Portal,Default,Backtest Asset Allocation Dashboard,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Balance,Annual returns$
+1146,890Portal,Default,Backtest Asset Allocation Dashboard,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Inflation (%),Annual returns$
+1191,890Portal,Default,Backtest Asset Allocation Dashboard,Rolling Returns Trend,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Annualized return,Rolling Returns$
+1151,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1152,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Start,Drawdowns for Historical Market$
+1153,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Stress Period,Drawdowns for Historical Market$
+1154,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Drawdowns (%),Drawdowns for Historical Market$
+1143,890Portal,Default,Backtest Asset Allocation Dashboard,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Year,Annual returns$
+1155,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,End,Drawdowns for Historical Market$
+1158,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Recovery Time,Worst 10 Drawdowns$
+1159,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Drawdown (%),Worst 10 Drawdowns$
+1160,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Rank,Worst 10 Drawdowns$
+1161,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Start,Worst 10 Drawdowns$
+1162,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Length,Worst 10 Drawdowns$
+1163,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,End,Worst 10 Drawdowns$
+1164,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Recovery By,Worst 10 Drawdowns$
+1156,890Portal,Default,Backtest Asset Allocation Dashboard,Drawdowns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Underwater Period,Worst 10 Drawdowns$
+1142,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Growth and Returns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Returns (%),Annual returns$
+1147,890Portal,Default,Backtest Asset Allocation Dashboard,Annual Returns and Balance Data,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Returns (%),Annual returns$
+1140,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Growth and Returns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Year,Annual returns$
+1259,890Portal,Default,Backtest Asset Allocation Dashboard v3,Rolling Returns Analysis,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Rolling Period (Years),Rolling Returns$
+1188,890Portal,Default,Backtest Asset Allocation Dashboard,Rolling Returns Trend,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Year,Annual returns$
+1187,890Portal,Default,Backtest Asset Allocation Dashboard,Rolling Returns Analysis,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Annualized return,Rolling Returns$
+1186,890Portal,Default,Backtest Asset Allocation Dashboard,Rolling Returns Analysis,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Rolling Returns$
+1185,890Portal,Default,Backtest Asset Allocation Dashboard,Rolling Returns Analysis,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Rolling Period (Years),Rolling Returns$
+1128,890Portal,Default,Backtest Asset Allocation Dashboard,Asset Allocation,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Asset Class,Asset Allocation$
+1129,890Portal,Default,Backtest Asset Allocation Dashboard,Asset Allocation,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Asset Allocation$
+1141,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Growth and Returns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1133,890Portal,Default,Backtest Asset Allocation Dashboard,Asset Allocation,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Allocation  (%),Asset Allocation$
+1134,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Performance,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Client,Annual returns$
+1258,890Portal,Default,Backtest Asset Allocation Dashboard v3,Rolling Returns Analysis,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Annualized return,Rolling Returns$
+1139,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Growth and Returns,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Balance,Annual returns$
+1135,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Performance,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Metric,Portfolio Performance$
+1136,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Performance,Annual returns (Asset Allocation Data),Asset Allocation Data v1.xlsx,excel-direct,Performance Values,Portfolio Performance$
+1150,890Portal,Default,Backtest Asset Allocation Dashboard,Risk and Return Metrics,Asset Allocation Data v1,Asset Allocation Data v1.xlsx,excel-direct,Values,Risk and Return Metrics$
+1149,890Portal,Default,Backtest Asset Allocation Dashboard,Risk and Return Metrics,Asset Allocation Data v1,Asset Allocation Data v1.xlsx,excel-direct,Client,Risk and Return Metrics$
+1148,890Portal,Default,Backtest Asset Allocation Dashboard,Risk and Return Metrics,Asset Allocation Data v1,Asset Allocation Data v1.xlsx,excel-direct,Metric,Risk and Return Metrics$
+1223,890Portal,Default,Backtest Asset Allocation Dashboard v3,Risk and Return Metrics,Asset Allocation Data v1,Asset Allocation Data v1.xlsx,excel-direct,Client,Risk and Return Metrics$
+1224,890Portal,Default,Backtest Asset Allocation Dashboard v3,Risk and Return Metrics,Asset Allocation Data v1,Asset Allocation Data v1.xlsx,excel-direct,Metric,Risk and Return Metrics$
+1225,890Portal,Default,Backtest Asset Allocation Dashboard v3,Risk and Return Metrics,Asset Allocation Data v1,Asset Allocation Data v1.xlsx,excel-direct,Values,Risk and Return Metrics$
+914,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Total,Sheet1
+885,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q4-2020,Sheet1
+884,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q1-2020,Sheet1
+883,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q3-2020,Sheet1
+882,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Total,Sheet1
+915,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q3-2020,Sheet1
+916,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q1-2020,Sheet1
+917,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q4-2020,Sheet1
+887,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q2-2020,Sheet1
+886,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Stage,Sheet1
+661,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Total,Sheet1
+919,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q2-2020,Sheet1
+662,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q3-2020,Sheet1
+663,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q1-2020,Sheet1
+664,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q4-2020,Sheet1
+665,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Stage,Sheet1
+666,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Q2-2020,Sheet1
+918,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Booking in Pipeline,Clipboard_20200422T140528.xls,excel-direct,Stage,Sheet1
+377,890Portal,Loss Control,Loss Control-Towing,Exceptions-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,Average_Tow_Rate_per_day,Boston-Towing-Companies-SB$
+376,890Portal,Loss Control,Loss Control-Towing,Exceptions-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,Towing_InNetwork,Boston-Towing-Companies-SB$
+375,890Portal,Loss Control,Loss Control-Towing,Exceptions-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,Business,Boston-Towing-Companies-SB$
+374,890Portal,Loss Control,Loss Control-Towing,Exceptions-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,Towing_Discount,Boston-Towing-Companies-SB$
+366,890Portal,Loss Control,Loss Control-Towing,Network-Savings-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,Business,Boston-Towing-Companies-SB$
+357,890Portal,Loss Control,Loss Control-Towing,Network-Savings-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,calc_Business_Grp,Boston-Towing-Companies-SB$
+358,890Portal,Loss Control,Loss Control-Towing,Network-Savings-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,Towing_InNetwork,Boston-Towing-Companies-SB$
+372,890Portal,Loss Control,Loss Control-Towing,Exceptions-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,Years_in_Business,Boston-Towing-Companies-SB$
+369,890Portal,Loss Control,Loss Control-Towing,Network-Savings-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,ClaimsCount,Boston-Towing-Companies-SB$
+364,890Portal,Loss Control,Loss Control-Towing,Network-Savings-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,Towing_Discount,Boston-Towing-Companies-SB$
+359,890Portal,Loss Control,Loss Control-Towing,Network-Savings-Dashboard,Boston-Towing-Companies-SB (Boston-Towing-Companies-SB),excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct,calc_Cnt_Towing_Co,Boston-Towing-Companies-SB$
+336,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,PROVIDER_ID,ClaimsRequest.csv
+328,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,PROVIDER_NAME,ClaimsRequest.csv
+330,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,X,ClaimsRequest.csv
+331,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,PAT_ZIP,ClaimsRequest.csv
+332,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,submitted_amt,ClaimsRequest.csv
+333,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,Claim_Request,ClaimsRequest.csv
+334,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,POLICY_NO,ClaimsRequest.csv
+335,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,cluster,ClaimsRequest.csv
+337,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,Y,ClaimsRequest.csv
+356,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,PROC_CODE,ClaimsRequest.csv
+349,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,DIAGNOSIS_CODE,ClaimsRequest.csv
+347,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,SEX_CODE,ClaimsRequest.csv
+346,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,ADMISSION_TYPE,ClaimsRequest.csv
+348,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,PredictedFraud,ClaimsRequest.csv
+345,890Portal,HealthCare Fraud Analytics,HealthCareFraudulentClaims,Anomaly Detection,ClaimsRequest,ClaimsRequest.csv,textscan,insurance,ClaimsRequest.csv
+701,890Portal,Default,Covid 19 External V6,Executive Dashboard,Clipboard_20200408T150009,Clipboard_20200408T150009.xls,excel-direct,Feb 20 FTE,Sheet1
+707,890Portal,Default,Covid 19 External V6,Executive Dashboard,Clipboard_20200408T150009,Clipboard_20200408T150009.xls,excel-direct,Industry,Sheet1
+706,890Portal,Default,Covid 19 External V6,Executive Dashboard,Clipboard_20200408T150009,Clipboard_20200408T150009.xls,excel-direct,Account Name,Sheet1
+704,890Portal,Default,Covid 19 External V6,Executive Dashboard,Clipboard_20200408T150009,Clipboard_20200408T150009.xls,excel-direct,COVID Forcast,Sheet1
+859,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,S&P Rating,Sheet1
+860,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,CF/Rev,Sheet1
+852,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Rev volatility,Sheet1
+861,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Current Ratio,Sheet1
+809,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Alpha,Sheet1
+810,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Current Ratio,Sheet1
+811,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Leverage,Sheet1
+813,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Stock Volatility,Sheet1
+851,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Asset turnover,Sheet1
+850,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Country Risk,Sheet1
+814,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Industry risk,Sheet1
+815,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,S&P Rating,Sheet1
+816,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,S&P Outlook,Sheet1
+817,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Asset turnover,Sheet1
+820,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Account Name,Sheet1
+812,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,CF/Rev,Sheet1
+819,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Country Risk,Sheet1
+818,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Rev volatility,Sheet1
+858,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Leverage,Sheet1
+857,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Industry risk,Sheet1
+856,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Stock Volatility,Sheet1
+855,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Alpha,Sheet1
+854,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,S&P Outlook,Sheet1
+853,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Clipboard_20200414T111559,Clipboard_20200414T111559.xls,excel-direct,Account Name,Sheet1
+905,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Q2-2020,Sheet1
+652,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Q2-2020,Sheet1
+651,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Ultimate Parent Account,Sheet1
+874,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Total,Sheet1
+873,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Q2-2020,Sheet1
+872,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Ultimate Parent Account,Sheet1
+875,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Opportunity Name,Sheet1
+654,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Opportunity Name,Sheet1
+904,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Ultimate Parent Account,Sheet1
+653,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Total,Sheet1
+906,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Total,Sheet1
+907,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141534,Clipboard_20200422T141534.xls,excel-direct,Opportunity Name,Sheet1
+881,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q1-2020,Sheet1
+880,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Offer,Sheet1
+879,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Total,Sheet1
+876,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q4-2020,Sheet1
+910,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q2-2020,Sheet1
+878,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q2-2020,Sheet1
+660,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q1-2020,Sheet1
+908,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q4-2020,Sheet1
+913,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q1-2020,Sheet1
+912,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Offer,Sheet1
+909,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q3-2020,Sheet1
+911,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Total,Sheet1
+877,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q3-2020,Sheet1
+659,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Offer,Sheet1
+658,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Total,Sheet1
+657,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q2-2020,Sheet1
+656,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q3-2020,Sheet1
+655,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T141802,Clipboard_20200422T141802.xls,excel-direct,Q4-2020,Sheet1
+869,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q2-2020,Sheet1
+902,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q3-2020,Sheet1
+901,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q2-2020,Sheet1
+899,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,ID BU,Sheet1
+898,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q1-2020,Sheet1
+646,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,ID BU,Sheet1
+647,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Total,Sheet1
+871,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q4-2020,Sheet1
+903,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q4-2020,Sheet1
+648,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q2-2020,Sheet1
+649,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q3-2020,Sheet1
+650,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q4-2020,Sheet1
+870,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q3-2020,Sheet1
+645,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q1-2020,Sheet1
+900,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Total,Sheet1
+868,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Total,Sheet1
+867,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,ID BU,Sheet1
+866,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142147,Clipboard_20200422T142147.xls,excel-direct,Q1-2020,Sheet1
+865,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Account Name,Sheet1
+896,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q3-2020,Sheet1
+897,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Account Name,Sheet1
+862,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q2-2020,Sheet1
+863,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q4-2020,Sheet1
+864,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q3-2020,Sheet1
+894,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q2-2020,Sheet1
+644,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Account Name,Sheet1
+643,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q3-2020,Sheet1
+642,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q4-2020,Sheet1
+641,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q2-2020,Sheet1
+895,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T142453,Clipboard_20200422T142453.xls,excel-direct,Q4-2020,Sheet1
+920,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q2-2020,Sheet1
+922,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q4-2020,Sheet1
+669,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q4-2020,Sheet1
+925,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Total,Sheet1
+924,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q3-2020,Sheet1
+923,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Bid Type,Sheet1
+888,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q2-2020,Sheet1
+890,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q4-2020,Sheet1
+670,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Bid Type,Sheet1
+668,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q1-2020,Sheet1
+667,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q2-2020,Sheet1
+671,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q3-2020,Sheet1
+672,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline,Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Total,Sheet1
+889,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q1-2020,Sheet1
+892,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q3-2020,Sheet1
+893,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Total,Sheet1
+891,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (2),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Bid Type,Sheet1
+921,890Portal,COVID-19,Covid 19 Internal V6,Booking Sales and Pipeline (3),Clipboard_20200422T143021,Clipboard_20200422T143021.xls,excel-direct,Q1-2020,Sheet1
+537,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Clipboard_20200427T171331,Clipboard_20200427T171331.xls,excel-direct,Practice,Sheet1
+538,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Clipboard_20200427T171331,Clipboard_20200427T171331.xls,excel-direct,Values,Sheet1
+539,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Clipboard_20200427T171331,Clipboard_20200427T171331.xls,excel-direct,Order Date,Sheet1
+821,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Country Risk (risk_Tab),risk_Tab.xlsx,excel-direct,Country,Country Risk$
+841,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Country Risk (risk_Tab),risk_Tab.xlsx,excel-direct,Country,Country Risk$
+309,890Portal,HealthCare Fraud Analytics,Healthcare-Fraud-Detection,Fraud Claims Dashboard,Data (Data for Analytics),excel-direct.1t1z6hy05xvbo019bggy01paju1p,excel-direct,PROVIDER_NAME,Data
+313,890Portal,HealthCare Fraud Analytics,Healthcare-Fraud-Detection,Fraud Claims Dashboard,Data (Data for Analytics),excel-direct.1t1z6hy05xvbo019bggy01paju1p,excel-direct,Fraud,Data
+310,890Portal,HealthCare Fraud Analytics,Healthcare-Fraud-Detection,Fraud Claims Dashboard,Data (Data for Analytics),excel-direct.1t1z6hy05xvbo019bggy01paju1p,excel-direct,Fraud Type,Data
+311,890Portal,HealthCare Fraud Analytics,Healthcare-Fraud-Detection,Fraud Claims Dashboard,Data (Data for Analytics),excel-direct.1t1z6hy05xvbo019bggy01paju1p,excel-direct,TOTAL_CHARGES,Data
+312,890Portal,HealthCare Fraud Analytics,Healthcare-Fraud-Detection,Fraud Claims Dashboard,Data (Data for Analytics),excel-direct.1t1z6hy05xvbo019bggy01paju1p,excel-direct,DIAGNOSIS_CODE,Data
+318,890Portal,HealthCare Fraud Analytics,Healthcare-Fraud-Detection,Fraud Claims Dashboard,Data (Data for Analytics),excel-direct.1t1z6hy05xvbo019bggy01paju1p,excel-direct,SEX_CODE,Data
+323,890Portal,HealthCare Fraud Analytics,Healthcare-Fraud-Detection,Fraud Claims Dashboard,Data (Data for Analytics),excel-direct.1t1z6hy05xvbo019bggy01paju1p,excel-direct,PROC_CODE,Data
+327,890Portal,HealthCare Fraud Analytics,Healthcare-Fraud-Detection,Fraud Claims Dashboard,Data (Data for Analytics),excel-direct.1t1z6hy05xvbo019bggy01paju1p,excel-direct,ADMISSION_TYPE,Data
+2178,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Cargo Name,Dummy_ChennaiFinal
+1981,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-9,Dummy_ChennaiFinal
+1996,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-3,Dummy_ChennaiFinal
+1995,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-7,Dummy_ChennaiFinal
+1994,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-5,Dummy_ChennaiFinal
+2183,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Car ID,Dummy_ChennaiFinal
+2182,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Batch ID,Dummy_ChennaiFinal
+2181,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Engine ID Name,Dummy_ChennaiFinal
+2180,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,City,Dummy_ChennaiFinal
+1993,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Interior,Dummy_ChennaiFinal
+1987,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-4,Dummy_ChennaiFinal
+1992,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-6,Dummy_ChennaiFinal
+1983,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,FTA_1,Dummy_ChennaiFinal
+1990,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,CC prediction,Dummy_ChennaiFinal
+1989,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-2,Dummy_ChennaiFinal
+1984,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-8,Dummy_ChennaiFinal
+1985,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Avg. Temp.,Dummy_ChennaiFinal
+2179,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Type Class Car,Dummy_ChennaiFinal
+1988,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Month,Dummy_ChennaiFinal
+1991,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,day,Dummy_ChennaiFinal
+2184,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Engine ID,Dummy_ChennaiFinal
+1986,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Cars Waiting,Dummy_ChennaiFinal
+2185,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,CC prediction,Dummy_ChennaiFinal
+1979,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,M-1,Dummy_ChennaiFinal
+2186,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Interior,Dummy_ChennaiFinal
+1980,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Cargo Name,Dummy_ChennaiFinal
+1982,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Cars Arriving,Dummy_ChennaiFinal
+2187,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Dealer_Name,Dummy_ChennaiFinal
+2188,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_ChennaiFinal (Dummy_ChennaiFinal),Dummy_ChennaiFinal.xlsx,excel-direct,Seat Capacity,Dummy_ChennaiFinal
+2251,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Car ID,Dummy_Mumbai
+2060,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Batch ID,Dummy_Mumbai
+2250,890Portal,Default,dummy_new,Chennai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Cargo Name,Dummy_Mumbai
+1768,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-11,Dummy_Mumbai
+1767,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-2,Dummy_Mumbai
+2059,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Type Class Car,Dummy_Mumbai
+1773,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-4,Dummy_Mumbai
+1770,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-7,Dummy_Mumbai
+1771,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-8,Dummy_Mumbai
+2058,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Dealer_Name,Dummy_Mumbai
+2044,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Car ID,Dummy_Mumbai
+1775,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,CC prediction,Dummy_Mumbai
+1774,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-3,Dummy_Mumbai
+1772,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Month,Dummy_Mumbai
+2043,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Cargo Name,Dummy_Mumbai
+1776,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-9,Dummy_Mumbai
+1769,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Cargo Name,Dummy_Mumbai
+1777,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,FTA_1,Dummy_Mumbai
+1761,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-5,Dummy_Mumbai
+2068,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Interior,Dummy_Mumbai
+2067,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Engine ID Name,Dummy_Mumbai
+1762,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Cars Arriving,Dummy_Mumbai
+1763,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Avg. Temp.,Dummy_Mumbai
+2066,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Engine ID,Dummy_Mumbai
+1978,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Car ID,Dummy_Mumbai
+1977,890Portal,Default,dummy_new,Chennai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Cargo Name,Dummy_Mumbai
+2065,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,CC prediction,Dummy_Mumbai
+1758,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Car ID,Dummy_Mumbai
+2064,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Seat Capacity,Dummy_Mumbai
+1779,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Interior,Dummy_Mumbai
+1764,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-10,Dummy_Mumbai
+1765,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-1,Dummy_Mumbai
+1766,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,Cars Waiting,Dummy_Mumbai
+1778,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,day,Dummy_Mumbai
+2063,890Portal,Default,dummy_new,Mumbai Port_Car,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,City,Dummy_Mumbai
+1760,890Portal,Default,dummy_new,Mumbai Port_Demographic,Dummy_Mumbai (Dummy_MumbaiFinal) (2),Dummy_MumbaiFinal.xlsx,excel-direct,M-6,Dummy_Mumbai
+2778,890Portal,Default,Peakon FS,Dashboard 1,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Sentiment,FS Comments$
+2823,890Portal,Default,Peakon FS,Dashboard 2,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Month,FS Comments$
+2780,890Portal,Default,Peakon FS,Dashboard 1,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Driver,FS Comments$
+2826,890Portal,Default,Peakon FS,Dashboard 2,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Question,FS Comments$
+2779,890Portal,Default,Peakon FS,Dashboard 1,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Date,FS Comments$
+2822,890Portal,Default,Peakon FS,Dashboard 2,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Score,FS Comments$
+2818,890Portal,Default,Peakon FS,Dashboard 2,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Sentiment,FS Comments$
+2817,890Portal,Default,Peakon FS,Dashboard 2,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Date,FS Comments$
+2812,890Portal,Default,Peakon FS,Dashboard 2,FS Comments (Comments ACIS  FS with Attrition),Comments ACIS  FS with Attrition.xlsx,excel-direct,Driver,FS Comments$
+686,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Industry Risk (risk_Tab),risk_Tab v2.xlsx,excel-direct,Risk level,Industry Risk$
+685,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Industry Risk (risk_Tab),risk_Tab v2.xlsx,excel-direct,F1,Industry Risk$
+800,890Portal,Default,Covid 19 External V6,Geo Industry Risk,Industry Risk (risk_Tab),risk_Tab v2.xlsx,excel-direct,Risk level,Industry Risk$
+797,890Portal,Default,Covid 19 External V6,Geo Industry Risk,Industry Risk (risk_Tab),risk_Tab v2.xlsx,excel-direct,F1,Industry Risk$
+2630,890Portal,Default,dummy_new,City Level Analysis,MapDataDummy,MapDataDummy.csv,textscan,Path ID,MapDataDummy.csv
+2629,890Portal,Default,dummy_new,City Level Analysis,MapDataDummy,MapDataDummy.csv,textscan,No. of Cars Intime,MapDataDummy.csv
+2628,890Portal,Default,dummy_new,City Level Analysis,MapDataDummy,MapDataDummy.csv,textscan,Warehouse Out,MapDataDummy.csv
+2627,890Portal,Default,dummy_new,City Level Analysis,MapDataDummy,MapDataDummy.csv,textscan,Destination Port,MapDataDummy.csv
+2626,890Portal,Default,dummy_new,City Level Analysis,MapDataDummy,MapDataDummy.csv,textscan,City,MapDataDummy.csv
+2625,890Portal,Default,dummy_new,City Level Analysis,MapDataDummy,MapDataDummy.csv,textscan,No. of Cars Delayed,MapDataDummy.csv
+2631,890Portal,Default,dummy_new,City Level Analysis,MapDataDummy,MapDataDummy.csv,textscan,No. of Cars,MapDataDummy.csv
+2624,890Portal,Default,dummy_new,City Level Analysis,MapDataDummy,MapDataDummy.csv,textscan,Path_Order,MapDataDummy.csv
+577,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Opprtunity Breakup,Clipboard_20200514T114922.xls,excel-direct,CTT Sign Date,Sheet1
+578,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Opprtunity Breakup,Clipboard_20200514T114922.xls,excel-direct,Account Type,Sheet1
+579,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Opprtunity Breakup,Clipboard_20200514T114922.xls,excel-direct,Converted Booking,Sheet1
+580,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Opprtunity Breakup,Clipboard_20200514T114922.xls,excel-direct,Opportunity Type,Sheet1
+581,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Opprtunity Breakup,Clipboard_20200514T114922.xls,excel-direct,Account Name,Sheet1
+576,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Opprtunity Breakup,Clipboard_20200514T114922.xls,excel-direct,stage,Sheet1
+575,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Opprtunity Breakup,Clipboard_20200514T114922.xls,excel-direct,Sector,Sheet1
+1175,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Max. Drawdown (%),Portfolio Components$
+1176,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Sortino Ratio,Portfolio Components$
+1173,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Name,Portfolio Components$
+1178,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Best Year (%),Portfolio Components$
+1179,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,US Mkt Correlation,Portfolio Components$
+1180,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,CAGR (%),Portfolio Components$
+1168,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Client Correlation,Portfolio Risk-Return Decomp$
+1172,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Client,Portfolio Risk-Return Decomp$
+1171,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,10-year Treasury,Portfolio Risk-Return Decomp$
+1165,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Return,Portfolio Risk-Return Decomp$
+1174,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Stdev (%),Portfolio Components$
+1177,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Worst Year (%),Portfolio Components$
+1240,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Name,Portfolio Components$
+1241,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Client Correlation,Portfolio Risk-Return Decomp$
+1242,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Client,Portfolio Risk-Return Decomp$
+1243,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Return,Portfolio Risk-Return Decomp$
+1247,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Risk,Portfolio Risk-Return Decomp$
+1249,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,CAGR (%),Portfolio Components$
+1250,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Sortino Ratio,Portfolio Components$
+1251,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Sharpe Ratio,Portfolio Components$
+1252,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,US Mkt Correlation,Portfolio Components$
+1254,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Stdev (%),Portfolio Components$
+1255,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Best Year (%),Portfolio Components$
+1256,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Max. Drawdown (%),Portfolio Components$
+1257,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Worst Year (%),Portfolio Components$
+1183,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Risk,Portfolio Risk-Return Decomp$
+1181,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,Sharpe Ratio,Portfolio Components$
+1169,890Portal,Default,Backtest Asset Allocation Dashboard,Portfolio Analysis,Portfolio Components (Portfolio),Portfolio.xlsx,excel-direct,US Stock Market,Portfolio Risk-Return Decomp$
+837,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Primary Data Sheet 17jul,"Primary Data Sheet 17jul.csv,insurance analytics file.xlsx","textscan,excel-direct",New Risk Score,Primary Data Sheet 17jul.csv
+390,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Primary Data Sheet 17jul,"insurance analytics file.xlsx,Primary Data Sheet 17jul.csv","excel-direct,textscan",New Risk Score,Primary Data Sheet 17jul.csv
+383,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Primary Data Sheet 17jul,"insurance analytics file.xlsx,Primary Data Sheet 17jul.csv","excel-direct,textscan",c#custmr_pol_id,Insurance analytics file$
+822,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Primary Data Sheet 17jul,"Primary Data Sheet 17jul.csv,insurance analytics file.xlsx","textscan,excel-direct",% of customers,Primary Data Sheet 17jul.csv
+823,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Primary Data Sheet 17jul,"Primary Data Sheet 17jul.csv,insurance analytics file.xlsx","textscan,excel-direct",New total claim amount,Insurance analytics file$
+384,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Primary Data Sheet 17jul,"insurance analytics file.xlsx,Primary Data Sheet 17jul.csv","excel-direct,textscan",New total claim amount,Insurance analytics file$
+391,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Primary Data Sheet 17jul,"insurance analytics file.xlsx,Primary Data Sheet 17jul.csv","excel-direct,textscan",% of customers,Primary Data Sheet 17jul.csv
+836,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Primary Data Sheet 17jul,"Primary Data Sheet 17jul.csv,insurance analytics file.xlsx","textscan,excel-direct",c#custmr_pol_id,Insurance analytics file$
+2951,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,gender,Gender Details$
+2950,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Source,Gender Details$
+2949,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Country,Recrutiment Data$
+2948,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Gender,Recrutiment Data$
+2946,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Region,Recrutiment Data$
+2945,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Status,Recrutiment Data$
+2944,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,date_posted,Recrutiment Data$
+2943,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,job_id,Gender Details$
+2942,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,BU,Recrutiment Data$
+2941,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Position,Recrutiment Data$
+2940,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Department,Recrutiment Data$
+2939,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,VizId,Viz
+2947,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,job_level,Recrutiment Data$
+2869,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Reqs,Recrutiment Data$
+2958,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,appl_id,Gender Details$
+2929,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Status,Viz
+2933,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Recruiter,Viz
+2864,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,JobId,Viz
+2856,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,time_to_hire,Recrutiment Data$
+2872,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,VizSide,Viz
+2926,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Experience (Yrs),Recrutiment Data$
+2924,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Applicants,Recrutiment Data$
+2905,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,TTF,Recrutiment Data$
+2907,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Skill Set Category,Recrutiment Data$
+2911,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Skills,Recrutiment Data$
+2968,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Hires,Recrutiment Data$
+2967,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Assessments,Recrutiment Data$
+2965,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Interviews,Recrutiment Data$
+2889,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Recruitment Type,Recrutiment Data$
+2985,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,date_started,Recrutiment Data$
+2977,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Offer,Recrutiment Data$
+3348,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Department,Recrutiment Data$
+3187,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Status,Viz
+3186,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Position,Recrutiment Data$
+3184,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Experience (Yrs),Recrutiment Data$
+3183,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Source,Gender Details$
+3182,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Applicants,Recrutiment Data$
+3181,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Country,Recrutiment Data$
+3180,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Gender,Recrutiment Data$
+3179,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,job_level,Recrutiment Data$
+3178,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Region,Recrutiment Data$
+3177,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Status,Recrutiment Data$
+3176,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,date_posted,Recrutiment Data$
+3175,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,BU,Recrutiment Data$
+3169,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Skills,Recrutiment Data$
+3166,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Reqs,Recrutiment Data$
+3165,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Skill Set Category,Recrutiment Data$
+3163,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,TTF,Recrutiment Data$
+3191,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Recruiter,Viz
+3216,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,appl_id,Gender Details$
+3209,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,gender,Gender Details$
+3201,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,job_id,Gender Details$
+3197,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,VizId,Viz
+3122,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,JobId,Viz
+3114,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,time_to_hire,Recrutiment Data$
+3147,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Recruitment Type,Recrutiment Data$
+3130,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,VizSide,Viz
+3336,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Stage,Funnel
+3333,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,# of Applicants,Funnel
+3327,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,Recruiter,Recrutiment Data$
+3244,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,date_hired,Recrutiment Data$
+3238,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,date_requisition,Recrutiment Data$
+3228,890Portal,Default,Recruitment Dashboard,Dashboard 2,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,date_started,Recrutiment Data$
+3001,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,date_hired,Recrutiment Data$
+2995,890Portal,Default,Recruitment Dashboard,Dashboard,Recrutiment Data,Recrutiment Data.xlsx,excel-direct,date_requisition,Recrutiment Data$
+302,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,NET_INVESTMENT_INCOME,Revenue Analysis$
+301,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,YEAR,Revenue Analysis$
+300,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,EARNED_PREMIUM,Revenue Analysis$
+298,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,CLAIMS_LOSS,Revenue Analysis$
+292,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,Expense Ratio,Revenue Analysis$
+296,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,FEE_INCOME,Revenue Analysis$
+291,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,Loss Ratio,Revenue Analysis$
+294,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,TOTAL_REVENUES,Revenue Analysis$
+306,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,OPERATING_COST,Revenue Analysis$
+304,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,NET_REALIZED_CAPITAL_GAIN,Revenue Analysis$
+290,890Portal,Default,Consolidated Cookbook,Comparison of Financial Metrics,Revenue Analysis (Finance Data),Finance Data.xlsx,excel-direct,Combined Ratio,Revenue Analysis$
+389,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet1,Sheet1.csv,textscan,Final Driver Performance Score,Sheet1.csv
+838,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet1,Sheet1.csv,textscan,Final Driver Performance Score,Sheet1.csv
+689,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Expected Impact on Capgemini,Sheet1
+683,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Impact,Sheet1
+684,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Industry,Sheet1
+688,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,ABC Blank,Sheet1
+681,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Account Name,Sheet1
+561,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Impact,Sheet1
+560,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,News Mentions,Sheet1
+559,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Account Name,Sheet1
+625,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Industry,Sheet1
+693,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Country (copy),Sheet1
+682,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,News Mentions,Sheet1
+562,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (19_05_2020 Industry Filter),19_05_2020 Industry Filter.xlsx,excel-direct,Industry,Sheet1
+610,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Account Type,Sheet1
+601,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Region,Sheet1
+600,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Account,Sheet1
+606,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Country,Sheet1
+605,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Risk Class,Sheet1
+604,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Industry,Sheet1
+603,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Conditional Formating Risk Class,Sheet1
+597,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,News Mentions,Sheet1
+598,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Impact,Sheet1
+609,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Blank cell,Sheet1
+611,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Account Risk_Company Name),5_11_20_Account Risk_Company Name.xlsx,excel-direct,Blank Abc column,Sheet1
+842,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Sheet1 (5_11_20_COVID 19 FTE Projector) (2),5_11_20_COVID 19 FTE Projector.xlsx,excel-direct,COVID Forecast For Q2,Sheet1
+843,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Sheet1 (5_11_20_COVID 19 FTE Projector) (2),5_11_20_COVID 19 FTE Projector.xlsx,excel-direct,Country,Sheet1
+844,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Sheet1 (5_11_20_COVID 19 FTE Projector) (2),5_11_20_COVID 19 FTE Projector.xlsx,excel-direct,Account Name,Sheet1
+845,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Sheet1 (5_11_20_COVID 19 FTE Projector) (2),5_11_20_COVID 19 FTE Projector.xlsx,excel-direct,Feb 20 FTE,Sheet1
+846,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Sheet1 (5_11_20_COVID 19 FTE Projector) (2),5_11_20_COVID 19 FTE Projector.xlsx,excel-direct,COVID Impact,Sheet1
+847,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Sheet1 (5_11_20_COVID 19 FTE Projector) (2),5_11_20_COVID 19 FTE Projector.xlsx,excel-direct,Industry,Sheet1
+848,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Sheet1 (5_11_20_COVID 19 FTE Projector) (2),5_11_20_COVID 19 FTE Projector.xlsx,excel-direct,Baseline Forecast For Q2,Sheet1
+849,890Portal,COVID-19,Covid 19 Internal V6,Covid FTE Projector,Sheet1 (5_11_20_COVID 19 FTE Projector) (2),5_11_20_COVID 19 FTE Projector.xlsx,excel-direct,Account Type,Sheet1
+622,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Account,Sheet1
+673,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Pre-Covid Forecast Growth,Sheet1
+674,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Industry,Sheet1
+675,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Country Risk,Sheet1
+676,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Industry risk,Sheet1
+678,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Pred Impact,Sheet1
+679,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Account Type,Sheet1
+680,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Baseline FTE,Sheet1
+624,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Leverage,Sheet1
+612,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Pre-Covid Forecast Growth,Sheet1
+613,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Industry,Sheet1
+614,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Conditional Formating Risk Class,Sheet1
+615,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Risk Class,Sheet1
+616,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Asset turnover,Sheet1
+617,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Country Risk,Sheet1
+618,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Blank Abc column,Sheet1
+619,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Region,Sheet1
+620,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Account Type,Sheet1
+621,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Country,Sheet1
+623,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,S&P Rating,Sheet1
+677,890Portal,COVID-19,Covid 19 Internal V6,Geo Industry Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Region,Sheet1
+582,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,FTE Change,Sheet1
+588,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Predicted FTE,Sheet1
+567,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Risk Class (copy),Sheet1
+566,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Baseline FTE,Sheet1
+564,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Region,Sheet1
+563,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Industry,Sheet1
+590,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Baseline FTE,Sheet1
+591,890Portal,COVID-19,Covid 19 Internal V6,Account Risk,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,0,Sheet1
+565,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC)),5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx,excel-direct,Account Type,Sheet1
+544,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Key Opportunity Groups (HC)),5_11_20_Key Opportunity Groups (HC).xlsx,excel-direct,KPI for Key Risk Group,Sheet1
+570,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Key Opportunity Groups (HC)),5_11_20_Key Opportunity Groups (HC).xlsx,excel-direct,Feb 20 FTE,Sheet1
+543,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Key Opportunity Groups (HC)),5_11_20_Key Opportunity Groups (HC).xlsx,excel-direct,Account Name,Sheet1
+542,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Key Opportunity Groups (HC)),5_11_20_Key Opportunity Groups (HC).xlsx,excel-direct,Industry,Sheet1
+540,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Key Opportunity Groups (HC)),5_11_20_Key Opportunity Groups (HC).xlsx,excel-direct,KPI Key Opportunity Group,Sheet1
+574,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (5_11_20_Key Opportunity Groups (HC)),5_11_20_Key Opportunity Groups (HC).xlsx,excel-direct,COVID Forcast,Sheet1
+755,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,FTE Change,Sheet1
+724,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Region,Sheet1
+723,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Account Type,Sheet1
+722,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Risk Class (copy),Sheet1
+721,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Industry,Sheet1
+720,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Baseline FTE,Sheet1
+747,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Baseline FTE,Sheet1
+748,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Account,Sheet1
+749,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Industry,Sheet1
+750,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Risk Class,Sheet1
+754,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Account Type,Sheet1
+752,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Country,Sheet1
+771,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Leverage,Sheet1
+770,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Blank Abc column,Sheet1
+751,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Conditional Formating Risk Class,Sheet1
+768,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Region,Sheet1
+757,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,0,Sheet1
+753,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Predicted FTE,Sheet1
+769,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Asset turnover,Sheet1
+759,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,S&P Rating,Sheet1
+762,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Pre-Covid Forecast Growth,Sheet1
+764,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk External),Account Risk External.xlsx,excel-direct,Country Risk,Sheet1
+713,890Portal,Default,Covid 19 External V6,Executive Dashboard,"Sheet1 (Account Risk External),Sheet1 (Before and After COVID 19 New)","Before and After COVID 19 New.xlsx,Account Risk External.xlsx","excel-direct,excel-direct",Before COVID 19,Sheet1
+714,890Portal,Default,Covid 19 External V6,Executive Dashboard,"Sheet1 (Account Risk External),Sheet1 (Before and After COVID 19 New)","Before and After COVID 19 New.xlsx,Account Risk External.xlsx","excel-direct,excel-direct",Region,Sheet1
+716,890Portal,Default,Covid 19 External V6,Executive Dashboard,"Sheet1 (Account Risk External),Sheet1 (Before and After COVID 19 New)","Before and After COVID 19 New.xlsx,Account Risk External.xlsx","excel-direct,excel-direct",Date,Sheet1
+717,890Portal,Default,Covid 19 External V6,Executive Dashboard,"Sheet1 (Account Risk External),Sheet1 (Before and After COVID 19 New)","Before and After COVID 19 New.xlsx,Account Risk External.xlsx","excel-direct,excel-direct",Account Type,Sheet1
+718,890Portal,Default,Covid 19 External V6,Executive Dashboard,"Sheet1 (Account Risk External),Sheet1 (Before and After COVID 19 New)","Before and After COVID 19 New.xlsx,Account Risk External.xlsx","excel-direct,excel-direct",After COVID 19,Sheet1
+715,890Portal,Default,Covid 19 External V6,Executive Dashboard,"Sheet1 (Account Risk External),Sheet1 (Before and After COVID 19 New)","Before and After COVID 19 New.xlsx,Account Risk External.xlsx","excel-direct,excel-direct",Industry,Sheet1
+742,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Region,Sheet1
+735,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Risk Class,Sheet1
+732,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Country,Sheet1
+736,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Account Type,Sheet1
+738,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Account,Sheet1
+739,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Industry,Sheet1
+740,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Conditional Formating Risk Class,Sheet1
+743,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Blank Abc column,Sheet1
+745,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,News Mentions,Sheet1
+746,890Portal,Default,Covid 19 External V6,Account Risk,Sheet1 (Account Risk Latest V1),Account Risk Latest V1.xlsx,excel-direct,Impact,Sheet1
+712,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk with Jan FTE),Account Risk with Jan FTE.xlsx,excel-direct,Industry,Sheet1
+555,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (Account Risk with Jan FTE),Account Risk with Jan FTE.xlsx,excel-direct,Risk Class (copy),Sheet1
+556,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (Account Risk with Jan FTE),Account Risk with Jan FTE.xlsx,excel-direct,Region,Sheet1
+557,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (Account Risk with Jan FTE),Account Risk with Jan FTE.xlsx,excel-direct,Jan FTE,Sheet1
+558,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (Account Risk with Jan FTE),Account Risk with Jan FTE.xlsx,excel-direct,Industry,Sheet1
+709,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk with Jan FTE),Account Risk with Jan FTE.xlsx,excel-direct,Region,Sheet1
+711,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk with Jan FTE),Account Risk with Jan FTE.xlsx,excel-direct,Jan FTE,Sheet1
+710,890Portal,Default,Covid 19 External V6,Executive Dashboard,Sheet1 (Account Risk with Jan FTE),Account Risk with Jan FTE.xlsx,excel-direct,Risk Class (copy),Sheet1
+480,890Portal,Default,WFH Analytics Draft,Overview,Sheet1 (Asset Requests),Asset Requests.xlsx,excel-direct,Asset Fulfillment,Sheet1
+479,890Portal,Default,WFH Analytics Draft,Overview,Sheet1 (Asset Requests),Asset Requests.xlsx,excel-direct,Number,Sheet1
+404,890Portal,Default,WFH Analytics,Overview,Sheet1 (Asset Requests),Asset Requests.xlsx,excel-direct,Number,Sheet1
+403,890Portal,Default,WFH Analytics,Overview,Sheet1 (Asset Requests),Asset Requests.xlsx,excel-direct,Asset Fulfillment,Sheet1
+552,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,"Sheet1 (Before and After COVID 19 New),Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC))","Before and After COVID 19 New.xlsx,5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx","excel-direct,excel-direct",Industry,Sheet1
+553,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,"Sheet1 (Before and After COVID 19 New),Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC))","Before and After COVID 19 New.xlsx,5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx","excel-direct,excel-direct",Account Type,Sheet1
+550,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,"Sheet1 (Before and After COVID 19 New),Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC))","Before and After COVID 19 New.xlsx,5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx","excel-direct,excel-direct",Before COVID 19,Sheet1
+549,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,"Sheet1 (Before and After COVID 19 New),Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC))","Before and After COVID 19 New.xlsx,5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx","excel-direct,excel-direct",Region,Sheet1
+551,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,"Sheet1 (Before and After COVID 19 New),Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC))","Before and After COVID 19 New.xlsx,5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx","excel-direct,excel-direct",Date,Sheet1
+554,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,"Sheet1 (Before and After COVID 19 New),Sheet1 (5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC))","Before and After COVID 19 New.xlsx,5_11_20_Executive Dashboard_FTE Count vs Projected Risk (HC).xlsx","excel-direct,excel-direct",After COVID 19,Sheet1
+801,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Sheet1 (COVID 19 FTE Predictor External) (2),COVID 19 FTE Predictor External.xlsx,excel-direct,Country,Sheet1
+802,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Sheet1 (COVID 19 FTE Predictor External) (2),COVID 19 FTE Predictor External.xlsx,excel-direct,COVID Forecast,Sheet1
+803,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Sheet1 (COVID 19 FTE Predictor External) (2),COVID 19 FTE Predictor External.xlsx,excel-direct,Feb 20 FTE,Sheet1
+804,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Sheet1 (COVID 19 FTE Predictor External) (2),COVID 19 FTE Predictor External.xlsx,excel-direct,COVID Impact,Sheet1
+806,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Sheet1 (COVID 19 FTE Predictor External) (2),COVID 19 FTE Predictor External.xlsx,excel-direct,Account Name,Sheet1
+805,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Sheet1 (COVID 19 FTE Predictor External) (2),COVID 19 FTE Predictor External.xlsx,excel-direct,Industry,Sheet1
+808,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Sheet1 (COVID 19 FTE Predictor External) (2),COVID 19 FTE Predictor External.xlsx,excel-direct,Account Type,Sheet1
+807,890Portal,Default,Covid 19 External V6,Covid Impact on Employee Predictor,Sheet1 (COVID 19 FTE Predictor External) (2),COVID 19 FTE Predictor External.xlsx,excel-direct,Baseline Forecast,Sheet1
+280,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (Claim Data),Claim Data.xlsx,excel-direct,Detractor/Promoter,Sheet1
+284,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (Claim Data),Claim Data.xlsx,excel-direct,CYCLE TIME,Sheet1
+285,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (Claim Data),Claim Data.xlsx,excel-direct,ID,Sheet1
+286,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (Claim Data),Claim Data.xlsx,excel-direct,URBANICITY,Sheet1
+1327,890Portal,Default,dummy_new,Car Track At Port,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+1726,890Portal,Default,dummy_new,Car Track At Inland,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+1759,890Portal,Default,dummy_new,Mumbai Port_Demographic,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+1907,890Portal,Default,dummy_new,Chennai Port_Demographic,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+2774,890Portal,Default,dummy_new,Glossary,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+2155,890Portal,Default,dummy_new,Mumbai Port_Car,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+2203,890Portal,Default,dummy_new,Chennai Port_Car,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+2341,890Portal,Default,dummy_new,Dealer Analysis,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+2531,890Portal,Default,dummy_new,City Level Analysis,Sheet1 (Glossary_Dummy) (2),,,NaN,NaN
+2749,890Portal,Default,dummy_new,Glossary,Sheet1 (Glossary_Dummy) (2),Glossary_Dummy.xlsx,excel-direct,Description,Sheet1
+2750,890Portal,Default,dummy_new,Glossary,Sheet1 (Glossary_Dummy) (2),Glossary_Dummy.xlsx,excel-direct,Terminology,Sheet1
+281,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (NPS Metrics),NPS Metrics.xlsx,excel-direct,CSAT (Org),Sheet1
+282,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (NPS Metrics),NPS Metrics.xlsx,excel-direct,CSAT (Industry),Sheet1
+283,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (NPS Metrics),NPS Metrics.xlsx,excel-direct,Year,Sheet1
+289,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (NPS Metrics),NPS Metrics.xlsx,excel-direct,NPS (Industry),Sheet1
+288,890Portal,Default,Consolidated Cookbook,Comparison of People Metrics,Sheet1 (NPS Metrics),NPS Metrics.xlsx,excel-direct,NPS (Org),Sheet1
+546,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (Probable Sales Excel),Probable Sales Excel.xlsx,excel-direct,Practice,Sheet1
+547,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,Sheet1 (Probable Sales Excel),Probable Sales Excel.xlsx,excel-direct,Probable Sales,Sheet1
+489,890Portal,Default,WFH Analytics Draft,Overview,Sheet1 (Radar Data),Radar Data.xlsx,excel-direct,Current,Sheet1
+413,890Portal,Default,WFH Analytics,Overview,Sheet1 (Radar Data),Radar Data.xlsx,excel-direct,Metrics,Sheet1
+481,890Portal,Default,WFH Analytics Draft,Overview,Sheet1 (Radar Data),Radar Data.xlsx,excel-direct,Metrics,Sheet1
+490,890Portal,Default,WFH Analytics Draft,Overview,Sheet1 (Radar Data),Radar Data.xlsx,excel-direct,Capacity,Sheet1
+488,890Portal,Default,WFH Analytics Draft,Overview,Sheet1 (Radar Data),Radar Data.xlsx,excel-direct,Location,Sheet1
+412,890Portal,Default,WFH Analytics,Overview,Sheet1 (Radar Data),Radar Data.xlsx,excel-direct,Location,Sheet1
+411,890Portal,Default,WFH Analytics,Overview,Sheet1 (Radar Data),Radar Data.xlsx,excel-direct,Current,Sheet1
+410,890Portal,Default,WFH Analytics,Overview,Sheet1 (Radar Data),Radar Data.xlsx,excel-direct,Capacity,Sheet1
+506,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (SLA),Sheet1 (VPN)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Closed,Sheet1
+509,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (SLA),Sheet1 (VPN)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Time,Sheet1
+505,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (SLA),Sheet1 (VPN)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Date,Sheet1
+508,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (SLA),Sheet1 (VPN)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Still Open,Sheet1
+512,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (SLA),Sheet1 (VPN)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Location,Sheet1
+507,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (SLA),Sheet1 (VPN)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",SLA Met?,Sheet1
+520,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","VPN - Copy.XLSX,Skype - Copy.xlsx","excel-direct,excel-direct",Date,Sheet1
+521,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","VPN - Copy.XLSX,Skype - Copy.xlsx","excel-direct,excel-direct",Time,Sheet1
+518,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","VPN - Copy.XLSX,Skype - Copy.xlsx","excel-direct,excel-direct",Skype Alert Zone,Sheet1
+493,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","VPN - Copy.XLSX,Skype - Copy.xlsx","excel-direct,excel-direct",Skype Employee,Sheet1
+492,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","VPN - Copy.XLSX,Skype - Copy.xlsx","excel-direct,excel-direct",Skype Warning Zone,Sheet1
+497,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","VPN - Copy.XLSX,Skype - Copy.xlsx","excel-direct,excel-direct",Location,Sheet1
+452,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","Skype - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Time,Sheet1
+436,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","Skype - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Location,Sheet1
+433,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","Skype - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Date,Sheet1
+434,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","Skype - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Skype Server Load,Sheet1
+438,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","Skype - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Skype Alert Zone,Sheet1
+451,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","Skype - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Skype Warning Zone,Sheet1
+519,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","VPN - Copy.XLSX,Skype - Copy.xlsx","excel-direct,excel-direct",Skype Server Load,Sheet1
+453,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Skype),Sheet1 (VPN)","Skype - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Skype Employee,Sheet1
+1090,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Number,Sheet1
+1088,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Playweek Start Date,Sheet1
+1087,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Gross Deductions Amount,Sheet1
+1089,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Circuit,Sheet1
+1086,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Charge Net (Local),Sheet1
+1085,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Territory,Sheet1
+1091,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Advertising,Sheet1
+1060,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Circuit,Sheet1
+1093,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Net After Deductions,Sheet1
+1094,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Currency Code,Sheet1
+1098,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Interest,Sheet1
+1095,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Charge VAT (Local),Sheet1
+1100,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Gross,Sheet1
+1099,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Date,Sheet1
+1096,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Film Rental,Sheet1
+1092,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Other Amounts,Sheet1
+1101,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Theatre,Sheet1
+1059,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Territory,Sheet1
+1103,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Release Long,Sheet1
+1125,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Division,Sheet1
+1119,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Total (Local),Sheet1
+1084,890Portal,Default,Invoice,Gross,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Admissions,Sheet1
+1027,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Total (Local),Sheet1
+1026,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Theatre,Sheet1
+1025,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Date,Sheet1
+1024,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Division,Sheet1
+1023,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Currency Code,Sheet1
+1022,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Circuit,Sheet1
+1021,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Territory,Sheet1
+1020,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Release Long,Sheet1
+1019,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Total (Local),Sheet1
+1018,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Theatre,Sheet1
+1028,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Release Long,Sheet1
+1009,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Gross,Sheet1
+1007,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Interest,Sheet1
+1005,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Film Rental,Sheet1
+1004,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Charge VAT (Local),Sheet1
+1002,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Net After Deductions,Sheet1
+1031,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Currency Code,Sheet1
+1056,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Date,Sheet1
+1055,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Customer VAT Number,Sheet1
+1054,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Division,Sheet1
+1053,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Charge VAT (Local),Sheet1
+1051,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Legal Entity Fiscal Code,Sheet1
+1050,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Number,Sheet1
+1048,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Legal Entity,Sheet1
+1047,890Portal,Default,Invoice,Tax,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Legal Entity Address,Sheet1
+1001,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Other Amounts,Sheet1
+1000,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Advertising,Sheet1
+999,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Invoice Number,Sheet1
+994,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Admissions,Sheet1
+996,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Charge Net (Local),Sheet1
+997,890Portal,Default,Invoice,Total Invoice,Sheet1 (Syntheticnew_500),Syntheticnew_500.xlsx,excel-direct,Playweek Start Date,Sheet1
+503,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","VPN - Copy.XLSX,Teams - Copy.xlsx","excel-direct,excel-direct",Time,Sheet1
+504,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","VPN - Copy.XLSX,Teams - Copy.xlsx","excel-direct,excel-direct",Location,Sheet1
+501,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","VPN - Copy.XLSX,Teams - Copy.xlsx","excel-direct,excel-direct",Date,Sheet1
+500,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","VPN - Copy.XLSX,Teams - Copy.xlsx","excel-direct,excel-direct",Teams Alert Zone,Sheet1
+502,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","VPN - Copy.XLSX,Teams - Copy.xlsx","excel-direct,excel-direct",Teams Server Load,Sheet1
+444,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","Teams - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Location,Sheet1
+530,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","VPN - Copy.XLSX,Teams - Copy.xlsx","excel-direct,excel-direct",Teams Warning Zone,Sheet1
+443,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","Teams - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Teams Warning Zone,Sheet1
+441,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","Teams - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Date,Sheet1
+440,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","Teams - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Teams Employee,Sheet1
+426,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","Teams - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Time,Sheet1
+425,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","Teams - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Teams Server Load,Sheet1
+525,890Portal,Default,WFH Analytics Draft,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","VPN - Copy.XLSX,Teams - Copy.xlsx","excel-direct,excel-direct",Teams Employee,Sheet1
+421,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (Teams),Sheet1 (VPN)","Teams - Copy.xlsx,VPN - Copy.XLSX","excel-direct,excel-direct",Teams Alert Zone,Sheet1
+0,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Month,First
+279,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,New,Reach
+178,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Customer_Id,First
+179,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Month,First
+180,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Source,First
+181,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,User Segment,Promotion
+182,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Year,First
+183,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,First
+184,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Prod Type,Promotion
+188,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Leads_Tdy,Promotion
+190,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Customer_Id,Promotion
+191,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Leads_Yestrdy,Promotion
+192,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Month,First
+193,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Source,First
+194,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Year,First
+206,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Order,Reach
+205,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,First
+200,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Visit,Reach
+142,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,First
+143,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,New,Reach
+144,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Date,First
+145,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Month,First
+146,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Source,First
+147,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Year,First
+149,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Visit,Reach
+151,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Visit_Type,Reach
+171,890Portal,Default,CMO_Dashboard,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,Promotion
+248,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Month,First
+249,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Source,First
+250,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Year,First
+251,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,First
+252,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Facebook Followers,Content
+254,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Youtube Followers,Content
+261,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Linkedin Followers,Content
+278,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Mon_Yr,Reach
+276,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Visit,Reach
+266,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Twitter Followers,Content
+271,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Emails Opened,Content
+211,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Customer_Id,Reach
+244,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,AvgMin_New,Conversion
+215,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Customer_Id,Conversion
+217,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,Conversion
+223,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Prod Type,Conversion
+224,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Date,First
+225,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Revenue_Tot,Conversion
+243,890Portal,Default,CMO_Dashboard,Content,Sheet1 (Transactions),Transactions.xlsx,excel-direct,AvgMin_Old,Conversion
+230,890Portal,Default,CMO_Dashboard,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Revenue_Type,Conversion
+140,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Homepage,Reach
+148,890Portal,Default,CMO_Dashboard,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Page,Reach
+37,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Month,First
+38,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Customer_Id,Promotion
+39,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,First
+40,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Year,First
+41,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Source,First
+42,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Leads_Yestrdy,Promotion
+43,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Leads_Tdy,Promotion
+45,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Customer_Id,First
+46,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,User Segment,Promotion
+67,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Month,First
+66,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Revenue_Type,Conversion
+65,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,Conversion
+64,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Source,First
+63,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Year,First
+62,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,First
+36,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,Promotion
+55,890Portal,Default,CMO_Dashboard-WIP,Promotion Effect,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Prod Type,Promotion
+60,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Customer_Id,Conversion
+14,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Visit,Reach
+13,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,First
+11,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Source,First
+10,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Year,First
+6,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Homepage,Reach
+5,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Date,First
+7,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,New,Reach
+17,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Visit_Type,Reach
+20,890Portal,Default,CMO_Dashboard-WIP,Reach,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Page,Reach
+71,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Date,First
+107,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Date,First
+108,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Month,First
+109,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Source,First
+110,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Year,First
+111,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Brwse,First
+112,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Campaign,First
+113,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Asset_Brwse,First
+119,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Tot_Asset,First
+121,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Asset_Purchase,First
+114,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Prchse_Index,First
+72,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Revenue_Tot,Conversion
+75,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Visit,Reach
+77,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Order,Reach
+86,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Prod Type,Conversion
+83,890Portal,Default,CMO_Dashboard-WIP,Conversion,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Customer_Id,Reach
+96,890Portal,Default,CMO_Dashboard,Dashboard 1,Sheet1 (Transactions),Transactions.xlsx,excel-direct,Asset_Download,First
+457,890Portal,Default,WFH Analytics,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,VPN Alert Zone,Sheet1
+430,890Portal,Default,WFH Analytics,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,Location,Sheet1
+431,890Portal,Default,WFH Analytics,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,VPN Employee,Sheet1
+432,890Portal,Default,WFH Analytics,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,VPN Warning Zone,Sheet1
+454,890Portal,Default,WFH Analytics,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,Date,Sheet1
+455,890Portal,Default,WFH Analytics,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,Time,Sheet1
+458,890Portal,Default,WFH Analytics,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,VPN Server Load,Sheet1
+514,890Portal,Default,WFH Analytics Draft,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,VPN Alert Zone,Sheet1
+515,890Portal,Default,WFH Analytics Draft,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,Time,Sheet1
+516,890Portal,Default,WFH Analytics Draft,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,VPN Server Load,Sheet1
+517,890Portal,Default,WFH Analytics Draft,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,Location,Sheet1
+533,890Portal,Default,WFH Analytics Draft,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,VPN Warning Zone,Sheet1
+534,890Portal,Default,WFH Analytics Draft,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,VPN Employee,Sheet1
+513,890Portal,Default,WFH Analytics Draft,Detailed Insights,Sheet1 (VPN),VPN - Copy.XLSX,excel-direct,Date,Sheet1
+460,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (VPN),Sheet1 (SLA)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Closed,Sheet1
+466,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (VPN),Sheet1 (SLA)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Still Open,Sheet1
+465,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (VPN),Sheet1 (SLA)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",SLA Met?,Sheet1
+464,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (VPN),Sheet1 (SLA)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Location,Sheet1
+462,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (VPN),Sheet1 (SLA)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Date,Sheet1
+459,890Portal,Default,WFH Analytics,Detailed Insights,"Sheet1 (VPN),Sheet1 (SLA)","VPN - Copy.XLSX,SLA.XLSX","excel-direct,excel-direct",Time,Sheet1
+784,890Portal,Default,Covid 19 External V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Country,Sheet2
+783,890Portal,Default,Covid 19 External V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Active Cases,Sheet2
+638,890Portal,COVID-19,Covid 19 Internal V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Country,Sheet2
+782,890Portal,Default,Covid 19 External V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Total Cases,Sheet2
+781,890Portal,Default,Covid 19 External V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Total Recovered,Sheet2
+778,890Portal,Default,Covid 19 External V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Other,Sheet2
+639,890Portal,COVID-19,Covid 19 Internal V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Total Cases,Sheet2
+630,890Portal,COVID-19,Covid 19 Internal V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Total Deaths,Sheet2
+633,890Portal,COVID-19,Covid 19 Internal V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Other,Sheet2
+634,890Portal,COVID-19,Covid 19 Internal V6,Human Impact,Sheet2 (Latest Worldometer Data),Latest Worldometer Data.xlsx,excel-direct,Active Cases,Sheet2
+486,890Portal,Default,WFH Analytics Draft,Overview,Sheet3 (Asset Movement_WFH_Bangalore),,,NaN,NaN
+416,890Portal,Default,WFH Analytics,Overview,Sheet3 (Asset Movement_WFH_Bangalore),,,NaN,NaN
+402,890Portal,Default,WFH Analytics,Overview,"Sheet3 (Asset Movement_WFH_Bangalore),Sheet3 (Random Data)","Asset Movement_WFH_Bangalore.xlsx,Random Data.xlsx","excel-direct,excel-direct",VPN Location,Sheet3
+401,890Portal,Default,WFH Analytics,Overview,"Sheet3 (Asset Movement_WFH_Bangalore),Sheet3 (Random Data)","Asset Movement_WFH_Bangalore.xlsx,Random Data.xlsx","excel-direct,excel-direct",Asset Used,Sheet3
+478,890Portal,Default,WFH Analytics Draft,Overview,Sheet3 (Random Data),Random Data.xlsx,excel-direct,Satisfaction Score - VPN,Sheet3
+417,890Portal,Default,WFH Analytics,Overview,Sheet3 (Random Data),Random Data.xlsx,excel-direct,VPN Location,Sheet3
+418,890Portal,Default,WFH Analytics,Overview,Sheet3 (Random Data),Random Data.xlsx,excel-direct,Service Quality,Sheet3
+419,890Portal,Default,WFH Analytics,Overview,Sheet3 (Random Data),Random Data.xlsx,excel-direct,WFH City,Sheet3
+420,890Portal,Default,WFH Analytics,Overview,Sheet3 (Random Data),Random Data.xlsx,excel-direct,Satisfaction Score - VPN,Sheet3
+473,890Portal,Default,WFH Analytics Draft,Overview,Sheet3 (Random Data),Random Data.xlsx,excel-direct,Service Quality,Sheet3
+471,890Portal,Default,WFH Analytics Draft,Overview,Sheet3 (Random Data),Random Data.xlsx,excel-direct,WFH City,Sheet3
+472,890Portal,Default,WFH Analytics Draft,Overview,Sheet3 (Random Data),Random Data.xlsx,excel-direct,VPN Location,Sheet3
+475,890Portal,Default,WFH Analytics Draft,Overview,"Sheet3 (Random Data),Sheet3 (Asset Movement_WFH_Bangalore)","Random Data.xlsx,Asset Movement_WFH_Bangalore.xlsx","excel-direct,excel-direct",VPN Location,Sheet3
+476,890Portal,Default,WFH Analytics Draft,Overview,"Sheet3 (Random Data),Sheet3 (Asset Movement_WFH_Bangalore)","Random Data.xlsx,Asset Movement_WFH_Bangalore.xlsx","excel-direct,excel-direct",Asset Used,Sheet3
+825,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet4,sheet_4.xlsx,excel-direct,% of customers,Sheet4
+826,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet4,sheet_4.xlsx,excel-direct,Grupo de edad,Sheet4
+385,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet4,sheet_4.xlsx,excel-direct,Tipo de carro,Sheet4
+381,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet4,sheet_4.xlsx,excel-direct,% of customers,Sheet4
+832,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet4,sheet_4.xlsx,excel-direct,Tipo de carro,Sheet4
+380,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet4,sheet_4.xlsx,excel-direct,Grupo de edad,Sheet4
+396,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet4 (2),insurance analytics file.xlsx,excel-direct,Median RFM,Insurance analytics file$
+395,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet4 (2),insurance analytics file.xlsx,excel-direct,State,Insurance analytics file$
+827,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet4 (2),insurance analytics file.xlsx,excel-direct,State,Insurance analytics file$
+828,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet4 (2),insurance analytics file.xlsx,excel-direct,Median RFM,Insurance analytics file$
+937,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Renewable energy consumption (% of total final energy consumption),Sheet4
+938,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Control of Corruption: Estimate,Sheet4
+935,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Energy imports,Sheet4
+934,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,total (births per woman),Sheet4
+933,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Fertility rate,Sheet4
+939,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Forest area (% of land area),Sheet4
+942,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,CO2 emissions (metric tons per capita),Sheet4
+936,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,net (% of energy use),Sheet4
+941,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Electricity production from coal sources (% of total),Sheet4
+944,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Year,Sheet4
+945,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Fossil fuel energy consumption (% of total),Sheet4
+946,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,GINI index (World Bank estimate),Sheet4
+943,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,GDP growth (annual %),Sheet4
+940,890Portal,Default,ESG Insights,ESG Insights Dashboard,Sheet4 (ESG Data),ESG Data.xlsx,excel-direct,Energy use (kg of oil equivalent per capita),Sheet4
+393,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet6 (sheet_6),sheet_6.xlsx,excel-direct,Meses,Sheet6
+387,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet6 (sheet_6),sheet_6.xlsx,excel-direct,Entre semana noche conduciendo,Sheet6
+379,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet6 (sheet_6),sheet_6.xlsx,excel-direct,Fin de semana noche conduciendo,Sheet6
+394,890Portal,Default,Workbook for Spanish Insurance v3,Dashboard Great Car Company,Sheet6 (sheet_6),sheet_6.xlsx,excel-direct,Distancia,Sheet6
+830,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet6 (sheet_6),sheet_6.xlsx,excel-direct,Entre semana noche conduciendo,Sheet6
+833,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet6 (sheet_6),sheet_6.xlsx,excel-direct,Fin de semana noche conduciendo,Sheet6
+834,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet6 (sheet_6),sheet_6.xlsx,excel-direct,Meses,Sheet6
+840,890Portal,Default,Workbook for Spanish Insurance(English),Dashboard Great Car Company,Sheet6 (sheet_6),sheet_6.xlsx,excel-direct,Distancia,Sheet6
+2832,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Notes,TS Background Tasks Query
+2827,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,,,Started At,TS Background Tasks Query
+2828,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,,,Completed At,TS Background Tasks Query
+2849,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,,,Job Name,TS Background Tasks Query
+2847,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,,,Finish Code,TS Background Tasks Query
+2845,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,,,Notes,TS Background Tasks Query
+2844,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Item LUID,TS Background Tasks Query
+2843,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Current Datetime,TS Background Tasks Query
+2840,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,url_namespace,sites
+2841,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Item Type,TS Background Tasks Query
+2839,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Data Connection Id,TS Background Tasks Query
+2838,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Job Name,TS Background Tasks Query
+2831,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Subscription Workbook Id,TS Background Tasks Query
+2836,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Completed At,TS Background Tasks Query
+2835,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Item Id,TS Background Tasks Query
+2834,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Finish Code,TS Background Tasks Query
+2833,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Started At,TS Background Tasks Query
+2842,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Item Name,TS Background Tasks Query
+2837,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,workgroup,postgres,Item Repository Url,TS Background Tasks Query
+2830,890Portal,Default,ts_background_tasks_04.01,TS Background Tasks,TS Background Tasks,,,Current Datetime,TS Background Tasks Query
+1210,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Performance,Trade Dates (historical trades for clients (Demo)),historical trades for clients (Demo).xlsx,excel-direct,Date,Trade Dates$
+1208,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Performance,Trade Dates (historical trades for clients (Demo)),historical trades for clients (Demo).xlsx,excel-direct,Exchange,Trade Dates$
+1209,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Performance,Trade Dates (historical trades for clients (Demo)),historical trades for clients (Demo).xlsx,excel-direct,Buy/Sell,Trade Dates$
+1211,890Portal,Default,Backtest Asset Allocation Dashboard v3,Portfolio Performance,Trade Dates (historical trades for clients (Demo)),historical trades for clients (Demo).xlsx,excel-direct,Client,Trade Dates$
+774,890Portal,Default,Covid 19 External V6,GDP Impact,World GDP Impact (risk_Tab),,,NaN,NaN
+628,890Portal,COVID-19,Covid 19 Internal V6,GDP Impact,World GDP Impact (risk_Tab),,,NaN,NaN
+1265,890Portal,Default,GHG Emission,Dashboard 1,historical_emission (historical_emissions),historical_emissions.xlsx,excel-direct,Year,historical_emission
+1266,890Portal,Default,GHG Emission,Dashboard 1,historical_emission (historical_emissions),historical_emissions.xlsx,excel-direct,Country,historical_emission
+1267,890Portal,Default,GHG Emission,Dashboard 1,historical_emission (historical_emissions),historical_emissions.xlsx,excel-direct,Meaure,historical_emission
+2581,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+2580,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+2579,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+2578,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+2539,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+2582,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+2576,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+2575,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+2577,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+2583,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+1392,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+2574,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+2584,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+2573,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+2571,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+2540,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+2541,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+2542,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+2543,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+2544,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+2545,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+2546,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+2547,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+2549,890Portal,Default,dummy_new,City Level Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+1391,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+1390,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+1389,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+1388,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+1387,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+1386,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+1385,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+1384,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+1484,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+2437,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+2438,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+2439,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+2440,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+2441,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+2442,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+2443,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+2444,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+2445,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+2446,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+2447,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+2448,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+2436,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+2449,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+2451,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+2452,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+2453,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+2454,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+2455,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+2456,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+2457,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+2458,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+2450,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+1483,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+2502,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Path No,map_data_inland_1
+2504,890Portal,Default,dummy_new,Dealer Analysis,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Average_Cost,map_data_inland_1
+1393,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+1345,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+1344,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+1343,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+1342,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+1340,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+1339,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+1338,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+1335,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+1334,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+1333,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+1341,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+2769,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+2770,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+2771,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+2772,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+2773,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+1370,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Avg Temp.,map_data_inland_1
+1362,890Portal,Default,dummy_new,Car Track At Port,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Path No,map_data_inland_1
+2768,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+2767,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+2766,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+2765,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+2680,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+2681,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+2682,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+2683,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+2684,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+2685,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+2686,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+2687,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+2688,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+2689,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+2690,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+2692,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+2693,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+2691,890Portal,Default,dummy_new,Glossary,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+1797,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+1796,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+1795,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+1794,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+1793,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+1792,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+1791,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+1790,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+1789,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+1788,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+1787,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+1798,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+1786,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+1784,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+1783,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+1782,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+1781,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+1780,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+1785,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+1799,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+1800,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+1801,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+1825,890Portal,Default,dummy_new,Mumbai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+1725,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+1724,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+1723,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+1722,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+1721,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+1720,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+1719,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+1718,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+1717,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+1716,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+1715,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+1912,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+1911,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+1910,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+1909,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+1908,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+1904,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+1903,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+1902,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+1913,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+1901,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+1899,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+1898,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+1897,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+1896,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+1895,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+1894,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+1893,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+1892,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+1891,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+1890,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+1889,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+1900,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+1914,890Portal,Default,dummy_new,Chennai Port_Demographic,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+1714,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+1713,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+1712,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+1566,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+1565,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+1564,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+1563,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+1562,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+1561,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+1560,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+1559,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+1567,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+1553,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Path No,map_data_inland_1
+1550,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Path Id,map_data_inland_1
+1593,890Portal,Default,dummy_new,Car Track At Inland,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Average_Cost,map_data_inland_1
+2252,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+2249,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+2248,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+2247,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+2246,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+2245,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+2244,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+2243,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+2242,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+2241,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+2253,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+2240,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+2238,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+2237,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+2236,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+2235,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+2234,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+2233,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+2232,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+2231,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+2230,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+2229,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+2239,890Portal,Default,dummy_new,Chennai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+2023,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,City,map_data_inland_1
+2022,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Destination Port,map_data_inland_1
+2021,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car Weight,map_data_inland_1
+2024,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Name,map_data_inland_1
+2025,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Seat Capacity,map_data_inland_1
+2026,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Type Class Car,map_data_inland_1
+2027,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Engine ID,map_data_inland_1
+2050,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Exit,map_data_inland_1
+2049,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,PDI_Entry,map_data_inland_1
+2048,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Customs,map_data_inland_1
+2047,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse Out,map_data_inland_1
+2046,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pdi Ok,map_data_inland_1
+2045,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Car ID,map_data_inland_1
+2041,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Pre Warehouse Entry,map_data_inland_1
+2038,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Warehouse In,map_data_inland_1
+2137,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Port Arrival,map_data_inland_1
+2147,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Receipt,map_data_inland_1
+2146,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Distance_in_km,map_data_inland_1
+2144,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Batch ID,map_data_inland_1
+2143,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Production Date,map_data_inland_1
+2142,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Retail_Date,map_data_inland_1
+2141,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Ideal Lead Time,map_data_inland_1
+2140,890Portal,Default,dummy_new,Mumbai Port_Car,map_data_inland_1 (Dummy),Dummy.xlsx,excel-direct,Dealer_Arrival,map_data_inland_1
+960,890Portal,Default,Peek-a-Insights,Gross by Rating & Runtime,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,gross,movie_metadata
+954,890Portal,Default,Peek-a-Insights,Gross by Genre,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,genres,movie_metadata
+955,890Portal,Default,Peek-a-Insights,Gross by Genre,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,gross,movie_metadata
+957,890Portal,Default,Peek-a-Insights,Gross by Genre,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,country,movie_metadata
+959,890Portal,Default,Peek-a-Insights,Gross by Rating & Runtime,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,duration,movie_metadata
+966,890Portal,Default,Peek-a-Insights,Gross By Certification & Public Poles,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,num_voted_users,movie_metadata
+963,890Portal,Default,Peek-a-Insights,Gross by Rating & Runtime,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,imdb_score,movie_metadata
+965,890Portal,Default,Peek-a-Insights,Gross By Certification & Public Poles,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,gross,movie_metadata
+967,890Portal,Default,Peek-a-Insights,Gross By Certification & Public Poles,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,content_rating,movie_metadata
+969,890Portal,Default,Peek-a-Insights,Gross By IMDB Ratings,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,movie_title,movie_metadata
+970,890Portal,Default,Peek-a-Insights,Gross By IMDB Ratings,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,imdb_score,movie_metadata
+972,890Portal,Default,Peek-a-Insights,Gross By IMDB Ratings,movie_metadata (movie_metadata),movie_metadata.xlsx,excel-direct,gross,movie_metadata
+568,890Portal,COVID-19,Covid 19 Internal V6,Executive Dashboard,,,,NaN,NaN
+627,890Portal,COVID-19,Covid 19 Internal V6,GDP Impact,,,,NaN,NaN
+708,890Portal,Default,Covid 19 External V6,Executive Dashboard,,,,NaN,NaN
+773,890Portal,Default,Covid 19 External V6,GDP Impact,,,,NaN,NaN

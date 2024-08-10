@@ -1,0 +1,300 @@
+{
+  "data": {
+    "dashboards": [
+      {
+        "id": "dkkfjafljadlfajflsfjlsfdkj",
+        "name": "Comparison of People Metrics",
+        "index": 6,
+        "luid": "adkfjhfkjshflksjfhkajfhskdfjh",
+        "documentViewId": "{58ACB292-7449-4D17-887E-ACEE722513B8}",
+        "sheets": [
+          {
+            "id": "djfdljaldkjaLFKjdfljfldskfjlsdfk",
+            "name": "abcd",
+            "upstreamTables": [
+              {
+                "id": "sdakdsJsdjn734-5b4a-fe649a0cc6dd",
+                "name": "tab1",
+                "columns": [
+                  {
+                    "id": "570feec3-5719-3b66-7d59-baef7848052f"
+                  },
+                  {
+                    "id": "bf50b360-c9ea-151c-bc69-f9798f207950"
+                  },
+                  {
+                    "id": "e3550379-95a1-05ff-9e3c-84d676ae66c3"
+                  },
+                  {
+                    "id": "faba41c0-a97d-74f4-db23-ab314bb23298"
+                  }
+                ]
+              }
+            ],
+            "upstreamFields": [
+              {
+                "id": "djfalksdjfafjkdlfkgjsfldkajfsldfkj",
+                "name": "Detractor/Promoter",
+                "isHidden": false,
+                "directSheets": [
+                  {
+                    "id": "68ad9cc3-9c69-2d40-7d9c-df628cb3c94c"
+                  }
+                ]
+              }
+            ],
+            "upstreamColumns": [
+              {
+                "id": "lkjaflkjdflakjdsld69-f9798f207950",
+                "name": "Detractor/Promoter",
+                "isNullable": true
+              }
+            ],
+            "upstreamDatabases": [
+              {
+                "id": "skfjalfjaldfkjdl1875d",
+                "name": "Cla.xlsx",
+                "connectionType": "excel-direct"
+              }
+            ],
+            "upstreamDatasources": [
+              {
+                "id": "dfjaflkajflakjdff0d99bb87",
+                "name": "Sheet1 (Cla)",
+                "datasourceFilters": []
+              }
+            ]
+          },
+          {
+            "id": "dlkfjsldfkjdfla3-354e-01cf152e726e",
+            "name": "Y-o-Y CSAT Comparison",
+            "upstreamTables": [
+              {
+                "id": "alkfjlfkjsdflk7d0-991392140235",
+                "name": "Sheet1",
+                "columns": [
+                  {
+                    "id": "6e4eb6f8-1328-f71d-7bd6-dbbc28564174"
+                  },
+                  {
+                    "id": "77d6b0c4-3af4-ae1c-efae-496d1f74b1c1"
+                  },
+                  {
+                    "id": "afedbd01-be42-bb25-79a8-c0be58c1c98d"
+                  },
+                  {
+                    "id": "c6273d2c-92fb-95a3-2839-e94b99751ea2"
+                  },
+                  {
+                    "id": "d499bec9-29b6-e8af-328a-99976f5b4294"
+                  }
+                ]
+              }
+            ],
+            "upstreamColumns": [
+              {
+                "id": "6e4efAKLJFLAKfdj28564174",
+                "name": "CSAT (Org)",
+                "isNullable": true
+              },
+              {
+                "id": "77ddafkjAHFKAJFDNkj74b1c1",
+                "name": "CSAT (Industry)",
+                "isNullable": true
+              },
+              {
+                "id": "afdlkglfkndlkfn8c1c98d",
+                "name": "Year",
+                "isNullable": true
+              }
+            ],
+            "upstreamDatabases": [
+              {
+                "id": "0ladkfnalfkjadlfkjfd7e3ceaa",
+                "name": "NP.xlsx",
+                "connectionType": "excel-direct"
+              }
+            ],
+            "upstreamDatasources": [
+              {
+                "id": "a3ff21sfjkahdfkajnfKAdf8e193",
+                "name": "Sheet1 (NP)",
+                "datasourceFilters": []
+              }
+            ]
+          },
+          {
+            "id": "85e67dkzjdfLADKJFADLFK6f2d3fb",
+            "name": "Cycle Times on Insurance Claim",
+            "upstreamTables": [
+              {
+                "id": "1037a959-6970-9734-5b4a-fe649a0cc6dd",
+                "name": "Sheet1",
+                "columns": [
+                  {
+                    "id": "570feec3-5719-3b66-7d59-baef7848052f"
+                  },
+                  {
+                    "id": "bf50b360-c9ea-151c-bc69-f9798f207950"
+                  },
+                  {
+                    "id": "e3550379-95a1-05ff-9e3c-84d676ae66c3"
+                  },
+                  {
+                    "id": "faba41c0-a97d-74f4-db23-ab314bb23298"
+                  }
+                ]
+              }
+            ],
+            "upstreamColumns": [
+              {
+                "id": "570feec3-5719-3b66-7d59-baef7848052f",
+                "name": "CYCLE TIME",
+                "isNullable": true
+              },
+              {
+                "id": "e3550379-95a1-05ff-9e3c-84d676ae66c3",
+                "name": "ID",
+                "isNullable": true
+              }
+            ],
+            "upstreamDatabases": [
+              {
+                "id": "679f6706-d9b3-a05b-171b-58bcae71875d",
+                "name": "Claim Data.xlsx",
+                "connectionType": "excel-direct"
+              }
+            ],
+            "upstreamDatasources": [
+              {
+                "id": "fdf94230-086c-d642-1f7b-e7af0d99bb87",
+                "name": "Sheet1 (Claim Data)",
+                "datasourceFilters": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Site, Project, workbook_name, workbook_id, viewUrlName, contentURL, dashboard_name, dashboard_id, sheet_name, sheet_id, datasource_id, datasource_name, database_name, database_type
+
+
+{
+  "data": {
+    "dashboards": [
+      {
+        "id": "dfjhAldkJAHDAKjsbalkdbDJBSADlj",
+        "name": "Comparison of People Metrics",
+        "index": 6,
+        "upstreamTables": [
+          {
+            "id": "DFNLDKJNkNjksdAJDBAJCbaljdbadfbhajfbadfj",
+            "name": "Sheet1"
+          },
+          {
+            "id": "fkranfalkjfnasdfklndlakjfnskfjadljandalk",
+            "name": "Sheet1"
+          }
+        ],
+        "upstreamFields": [
+          {
+            "id": "safjlkfjsfkjnfsjnckjnafkjhfkfdjn",
+            "name": "efahfkjnfkjafn",
+            "folderName": null
+          },
+          {
+            "id": "askjfnflkjsfnskfn jfnd",
+            "name": "akjfnfjknfkn",
+            "folderName": null
+          },
+          {
+            "id": "84q574q98erjkfhalkdjfhsdfk",
+            "name": "dkjfdhkf",
+            "folderName": null
+          },
+          {
+            "id": "faeihrkgjhslfkjsnlakjslkvdj",
+            "name": "clfbkjn",
+            "folderName": null
+          },
+          {
+            "id": "kajhndsflkjnvklsjvnkxjbdkjv",
+            "name": "dkjsflkjsfn",
+            "folderName": null
+          },
+          {
+            "id": "gaklsfkjsnflskvjnskljnskv",
+            "name": "lkfjslfgklgjf",
+            "folderName": null
+          },
+          {
+            "id": "sdjahslfkjhflksfjhsdkfjn",
+            "name": "akjhkfjsdf",
+            "folderName": null
+          },
+          {
+            "id": "kafjdshflfkjhflksjfhsf",
+            "name": "kjdfhsdkfjhdsfk",
+            "folderName": null
+          },
+          {
+            "id": "ajfhskfjhflskdfjhdsf",
+            "name": "kjahfksjfhs",
+            "folderName": null
+          }
+        ],
+        "upstreamDatabases": [
+          {
+            "id": "jahslfshflskjfhslkfdj",
+            "name": "abc.xlsx",
+            "connectionType": "excel-direct",
+            "description": ""
+          },
+          {
+            "id": "679f67jhkjhkj8bcae71875d",
+            "name": "xyz.xlsx",
+            "connectionType": "excel-direct",
+            "description": ""
+          }
+        ],
+        "upstreamDatasources": [
+          {
+            "id": "fafhlsdkfjahsflkjsdfh",
+            "name": "Sheet1 (dkalfkjsdhf)"
+          },
+          {
+            "id": "fdf94kjshlksjfhlskf0d99bb87",
+            "name": "Sheet1 (dajhlskdfjsdhf)"
+          }
+        ],
+        "luid": "4c2lhfskjfhslkdfjne236d5",
+        "documentViewId": "{58ACB292-7449-4D17-887E-ACEE722513B8}",
+        "sheets": [
+          {
+            "id": "uffhsdfkjhfksjdfnskdjf",
+            "name": "abcs"
+          },
+          {
+            "id": "srjhflksjfhskfjsnfksdjfhnk",
+            "name": "jfadfj"
+          },
+          {
+            "id": "dskjfnfkjanfkjnfksjdff",
+            "name": "rijsofij"
+          },
+          {
+            "id": "ajfjsdfajlkadjnfldfjnsdkfj",
+            "name": "sdfldkfj"
+          },
+          {
+            "id": "akjflakjflakfjlf",
+            "name": "alfjsldfk"
+          }
+        ]
+      }
+    ]
+  }
+}

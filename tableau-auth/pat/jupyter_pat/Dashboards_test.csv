@@ -1,0 +1,26 @@
+name,id,contentUrl,sheetType,viewUrlName,workbook_name,workbook_id
+Reach,6047b331-14cc-485b-a6a8-eeebdfd7f03a,CMO_Dashboard-WIP/sheets/Reach,dashboard,Reach,CMO_Dashboard-WIP,d7586af6-a1df-4f6e-8ccf-1399d76430e9
+Promotion Effect,c61b802a-8a5d-49fe-a6f9-91eb6e4ceea3,CMO_Dashboard-WIP/sheets/PromotionEffect,dashboard,PromotionEffect,CMO_Dashboard-WIP,d7586af6-a1df-4f6e-8ccf-1399d76430e9
+Conversion,608163b1-d010-4514-9277-f693d8c64b26,CMO_Dashboard-WIP/sheets/Conversion,dashboard,Conversion,CMO_Dashboard-WIP,d7586af6-a1df-4f6e-8ccf-1399d76430e9
+Dashboard 1,25d485af-bfc4-4451-9fbb-661888b37ff7,CMO_Dashboard/sheets/Dashboard1,dashboard,Dashboard1,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+Reach,cbcc0b15-9c83-40a6-aea0-6768593ad506,CMO_Dashboard/sheets/Reach,dashboard,Reach,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+Promotion Effect,2d15e4db-ea02-46ea-ae1c-4b23f43cc890,CMO_Dashboard/sheets/PromotionEffect,dashboard,PromotionEffect,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+Conversion,a31a6cc1-104f-4351-bd1a-df62814990b1,CMO_Dashboard/sheets/Conversion,dashboard,Conversion,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+Content,8cbc3450-ad21-461e-802e-ac82bfac5126,CMO_Dashboard/sheets/Content,dashboard,Content,CMO_Dashboard,c4027ef4-71d0-4f5e-a495-959cacc0c689
+Comparison of People Metrics,4c29991b-0b11-4243-8a1b-650f52e236d5,ConsolidatedCookbook/sheets/ComparisonofPeopleMetrics,dashboard,ComparisonofPeopleMetrics,Consolidated Cookbook,1e926ea4-d173-417f-9881-e1e78c94be30
+Comparison of Financial Metrics,2d0e3014-b2e0-4d3c-a07e-a0f2cb3a2b59,ConsolidatedCookbook/sheets/ComparisonofFinancialMetrics,dashboard,ComparisonofFinancialMetrics,Consolidated Cookbook,1e926ea4-d173-417f-9881-e1e78c94be30
+Executive Dashboard,c2829716-ea1c-405a-ae83-d679f50797da,Covid19InternalV6/sheets/ExecutiveDashboard,dashboard,ExecutiveDashboard,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+Account Risk,fb2e1d79-9f64-4936-b8bd-1520ac9992ff,Covid19InternalV6/sheets/AccountRisk,dashboard,AccountRisk,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+GDP Impact,e57ada42-bc18-4882-b091-78affe8bcf1c,Covid19InternalV6/sheets/GDPImpact,dashboard,GDPImpact,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+Human Impact,e878ddad-a6a9-4cdb-8048-c626b6a6fa95,Covid19InternalV6/sheets/HumanImpact,dashboard,HumanImpact,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+Booking Sales and Pipeline,898e42c8-fe0f-4a0c-b340-245b53748849,Covid19InternalV6/sheets/BookingSalesandPipeline,dashboard,BookingSalesandPipeline,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+Geo Industry Risk,b87c4219-f8de-4b21-aa3a-371839950bfc,Covid19InternalV6/sheets/GeoIndustryRisk,dashboard,GeoIndustryRisk,Covid 19 Internal V6,092e0d98-796f-4b6a-9dab-51fb9f540b94
+Car Track At Port,1c287bae-09c9-4512-9bd5-3d36fbbd2854,dummy_new/sheets/CarTrackAtPort,dashboard,CarTrackAtPort,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+Car Track At Inland,7593a9fd-ce66-4253-92d1-b8027cb93a75,dummy_new/sheets/CarTrackAtInland,dashboard,CarTrackAtInland,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+Mumbai Port_Demographic,eab01a97-3521-4f4b-b48a-06c976224efa,dummy_new/sheets/MumbaiPort_Demographic,dashboard,MumbaiPort_Demographic,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+Chennai Port_Demographic,c52441d6-fd4d-410d-b6bc-548b054df85b,dummy_new/sheets/ChennaiPort_Demographic,dashboard,ChennaiPort_Demographic,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+Mumbai Port_Car,bc572ef1-3288-4d6c-b1d2-134478c1bb0f,dummy_new/sheets/MumbaiPort_Car,dashboard,MumbaiPort_Car,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+Chennai Port_Car,31c28f01-8d9e-4b07-b9bd-140f3cac44bc,dummy_new/sheets/ChennaiPort_Car,dashboard,ChennaiPort_Car,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+Dealer Analysis,5e75578b-19d4-4cc4-b5c9-a30170c35be2,dummy_new/sheets/DealerAnalysis,dashboard,DealerAnalysis,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+City Level Analysis,f20b37f1-dc2c-4877-a201-3ca7cab58675,dummy_new/sheets/CityLevelAnalysis,dashboard,CityLevelAnalysis,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b
+Glossary,101cebf1-9d29-42bf-a218-48b2dfcb6140,dummy_new/sheets/Glossary,dashboard,Glossary,dummy_new,b084f015-ef79-41e7-a935-90d10a43723b

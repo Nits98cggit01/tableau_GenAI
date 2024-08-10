@@ -1,0 +1,45 @@
+Day of Invoice Date,Measure Names,Charge VAT (Local),Gross,Invoice Total (Local)
+"March 23, 2018",Invoice Total (Local),-29.5,,-451.87
+"March 5, 2018",Invoice Total (Local),"2,071.33",,"32,120.19"
+"March 20, 2018",Invoice Total (Local),"3,239.05",,"49,768.07"
+"March 14, 2018",Invoice Total (Local),"3,380.17",,"51,674.290000000"
+"March 27, 2018",Invoice Total (Local),"3,752.73",,"57,400.01"
+"March 12, 2018",Invoice Total (Local),"3,782.03",,"57,815.96"
+"March 30, 2018",Invoice Total (Local),"3,992.78",,"61,201.45"
+"March 19, 2018",Invoice Total (Local),"4,302.1",,"65,764.05"
+"March 15, 2018",Invoice Total (Local),"6,084.93",,"93,025.29"
+"March 28, 2018",Invoice Total (Local),"6,088.76",,"93,117.520000000"
+"March 16, 2018",Invoice Total (Local),"6,760.16",,"103,484.1"
+"March 22, 2018",Invoice Total (Local),"8,136.97",,"124,776.06"
+"March 21, 2018",Invoice Total (Local),"8,191.720000000",,"125,922.83"
+"March 6, 2018",Invoice Total (Local),"8,224.43",,"125,940.6"
+"March 2, 2018",Invoice Total (Local),"8,663.13",,"132,435.07"
+"March 13, 2018",Invoice Total (Local),"8,895.55",,"136,410.31"
+"March 8, 2018",Invoice Total (Local),"10,051.11",,"154,396.22"
+"March 9, 2018",Invoice Total (Local),"11,041.16",,"169,064.17"
+"March 7, 2018",Invoice Total (Local),"11,680.28",,"178,555.15"
+"March 26, 2018",Invoice Total (Local),"11,990.93",,"183,493"
+"March 1, 2018",Invoice Total (Local),"12,259.38",,"188,061.96"
+"March 29, 2018",Invoice Total (Local),"24,778.72",,"379,063.52"
+"March 23, 2018",Gross,-29.5,,
+"March 5, 2018",Gross,"2,071.33","91,280.450000000",
+"March 20, 2018",Gross,"3,239.05","118,717.11",
+"March 14, 2018",Gross,"3,380.17","124,698.71",
+"March 27, 2018",Gross,"3,752.73","134,574.23",
+"March 12, 2018",Gross,"3,782.03","145,925.11",
+"March 30, 2018",Gross,"3,992.78","147,303.62",
+"March 19, 2018",Gross,"4,302.1","171,189.14",
+"March 15, 2018",Gross,"6,084.93","262,172.15",
+"March 28, 2018",Gross,"6,088.76","222,318.57",
+"March 16, 2018",Gross,"6,760.16","277,377.11",
+"March 22, 2018",Gross,"8,136.97","299,319.87",
+"March 21, 2018",Gross,"8,191.720000000","301,961.34",
+"March 6, 2018",Gross,"8,224.43","316,985.66",
+"March 2, 2018",Gross,"8,663.13","337,255.82",
+"March 13, 2018",Gross,"8,895.55","336,672.13",
+"March 8, 2018",Gross,"10,051.11","332,515.85",
+"March 9, 2018",Gross,"11,041.16","474,221.06",
+"March 7, 2018",Gross,"11,680.28","436,481.2",
+"March 26, 2018",Gross,"11,990.93","463,635.56",
+"March 1, 2018",Gross,"12,259.38","493,730.51",
+"March 29, 2018",Gross,"24,778.72","852,243.62",

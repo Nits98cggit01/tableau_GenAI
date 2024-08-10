@@ -1,0 +1,6 @@
+,Column Name,Table Name,Database Name,Database_connection
+0,calc_Business_Grp,'Boston-Towing-Companies-SB$',excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct
+1,Business,'Boston-Towing-Companies-SB$',excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct
+2,ClaimsCount,'Boston-Towing-Companies-SB$',excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct
+3,Towing_InNetwork,'Boston-Towing-Companies-SB$',excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct
+4,Towing_Discount,'Boston-Towing-Companies-SB$',excel-direct.1xy0xtc1ksnmow1bnnnp21q3twli,excel-direct

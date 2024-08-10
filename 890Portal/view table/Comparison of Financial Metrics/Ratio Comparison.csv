@@ -1,0 +1,5 @@
+,Database_connection,Database Name,Table Name,Column Name
+0,excel-direct,Finance Data.xlsx,'Revenue Analysis$',Combined Ratio
+1,excel-direct,Finance Data.xlsx,'Revenue Analysis$',Loss Ratio
+2,excel-direct,Finance Data.xlsx,'Revenue Analysis$',Expense Ratio
+3,excel-direct,Finance Data.xlsx,'Revenue Analysis$',YEAR

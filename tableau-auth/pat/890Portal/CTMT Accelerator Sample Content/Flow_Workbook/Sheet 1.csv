@@ -1,0 +1,22 @@
+Measure Names,Sourcename,Traveltype,Measure Values
+Cost,Average Car,Private,"1,133,208"
+Costineur,Average Car,Private,"998,413"
+Emissionsgenerated,Average Car,Private,"308,824"
+Cost,Average Car,Rental,"17,385"
+Costineur,Average Car,Rental,"14,759"
+Emissionsgenerated,Average Car,Rental,"10,987"
+Cost,Average Petrol Car,Rental,"2,816,116"
+Costineur,Average Petrol Car,Rental,"2,472,969"
+Emissionsgenerated,Average Petrol Car,Rental,"352,707"
+Cost,Average Petrol Car,Unknown,770
+Costineur,Average Petrol Car,Unknown,655
+Emissionsgenerated,Average Petrol Car,Unknown,363
+Cost,Bus,Unknown,"57,275"
+Costineur,Bus,Unknown,"52,781"
+Emissionsgenerated,Bus,Unknown,"21,580"
+Cost,Domestic Rail,Unknown,"239,753"
+Costineur,Domestic Rail,Unknown,"209,670"
+Emissionsgenerated,Domestic Rail,Unknown,"23,563"
+Cost,International Rail,Unknown,"48,843"
+Costineur,International Rail,Unknown,"43,313"
+Emissionsgenerated,International Rail,Unknown,"5,109"

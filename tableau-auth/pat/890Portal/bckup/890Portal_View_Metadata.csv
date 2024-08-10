@@ -1,0 +1,39 @@
+View name,Workbook name,Site name,View alias,Workbook url,Project name,Column name
+Cycle Times on Insurance Claim,Consolidated Cookbook,890Portal,CycleTimesonInsuranceClaim,ConsolidatedCookbook,Default,"ID, Cycle Time"
+Rural/Urban Distribution (2019),Consolidated Cookbook,890Portal,RuralUrbanDistribution2019,ConsolidatedCookbook,Default,"Urbanicity, Count of Urbanicity"
+Promoters vs Detractors (2019),Consolidated Cookbook,890Portal,PromotersvsDetractors2019,ConsolidatedCookbook,Default,"Detractor/Promoter, Count of Detractor/Promoter"
+Y-o-Y CSAT Comparison,Consolidated Cookbook,890Portal,Y-o-YCSATComparison,ConsolidatedCookbook,Default,"Year, CSAT (Industry), CSAT (Org)"
+Y-o-Y NPS Comparison,Consolidated Cookbook,890Portal,Y-o-YNPSComparison,ConsolidatedCookbook,Default,"Year, NPS (Industry), NPS (Org)"
+Ratio Comparison,Consolidated Cookbook,890Portal,RatioComparison,ConsolidatedCookbook,Default,"Year, Combined Ratio, Expense Ratio, Loss Ratio"
+Premium Earned,Consolidated Cookbook,890Portal,PremiumEarned,ConsolidatedCookbook,Default,"Year, Earned Premium"
+Investment Income,Consolidated Cookbook,890Portal,InvestmentIncome,ConsolidatedCookbook,Default,"Year, Net Investment Income"
+Operating Cost,Consolidated Cookbook,890Portal,OperatingCost,ConsolidatedCookbook,Default,"Year, Operating Cost"
+Claims Loss,Consolidated Cookbook,890Portal,ClaimsLoss,ConsolidatedCookbook,Default,"Year, Claims Loss"
+Fee Income,Consolidated Cookbook,890Portal,FeeIncome,ConsolidatedCookbook,Default,"Year, Fee Income"
+Capital Gains,Consolidated Cookbook,890Portal,CapitalGains,ConsolidatedCookbook,Default,"Year, Net Realized Capital Gain"
+Total Revenue,Consolidated Cookbook,890Portal,TotalRevenue,ConsolidatedCookbook,Default,"Year, Total Revenues"
+GHG Emission,GHG Emission,890Portal,GHGEmission,GHGEmission,Default,"Country, Year, Meaure"
+Sheet 1,Snowflake_Test_Wb,890Portal,Sheet1,Snowflake_Test_Wb,CTMT Accelerator Sample Content,"Travelcategory, Traveltype, Cost"
+Sheet 1,Electric_Vehicle_Wb,890Portal,Sheet1,Electric_Vehicle_Wb,CTMT Accelerator Sample Content,"City, 2020 Census Tract"
+Sheet 1,Emissions ,890Portal,Sheet1,Emissions,CTMT_Sub_Project,"City, 2020 Census Tract"
+Sheet 1,Flow_Workbook,890Portal,Sheet1,Flow_Workbook,CTMT Accelerator Sample Content,"Measure Names, Sourcename, Traveltype, Measure Values"
+Department wise Positions,Recruitment Dashboard,890Portal,DepartmentwisePositions,RecruitmentDashboard,Default,"Department, # of Positions"
+Department wise Positions - Legends,Recruitment Dashboard,890Portal,DepartmentwisePositions-Legends,RecruitmentDashboard,Default,"Department, # of Positions, Index"
+Job Posting Trend - Open,Recruitment Dashboard,890Portal,JobPostingTrend-Open,RecruitmentDashboard,Default,"Month of Job Posted Date, # of Positions"
+Job Posting Trend - Filled,Recruitment Dashboard,890Portal,JobPostingTrend-Filled,RecruitmentDashboard,Default,"Month of Job Filled Date, # of Positions"
+Application Received Source,Recruitment Dashboard,890Portal,ApplicationReceivedSource,RecruitmentDashboard,Default,"Source , Count of Appl Id, % of Total Count of Appl Id"
+Recruiting Funnel 3 (3),Recruitment Dashboard,890Portal,RecruitingFunnel33,RecruitmentDashboard,Default,"Measure Names, Stage, Max. 1 Tootltip (, Max. 1 Tootltip ), Measure Values, % Difference in # of Applicants (-ve), # of Applicants (Funnel)"
+Reqs vs  Applicants,Recruitment Dashboard,890Portal,ReqsvsApplicants,RecruitmentDashboard,Default,"Skills, Avg. # of Applicants, Avg. TTF, Count of # of Reqs"
+Total Reqs,Recruitment Dashboard,890Portal,TotalReqs,RecruitmentDashboard,Default,Count of # of Reqs
+Total Reqs Filled,Recruitment Dashboard,890Portal,TotalReqsFilled,RecruitmentDashboard,Default,Count Reqs Filled
+Total Reqs Open,Recruitment Dashboard,890Portal,TotalReqsOpen,RecruitmentDashboard,Default,Count Reqs Open
+Total Reqs Cancelled,Recruitment Dashboard,890Portal,TotalReqsCancelled,RecruitmentDashboard,Default,Count Reqs Cancelled
+Average # Applicants,Recruitment Dashboard,890Portal,AverageApplicants,RecruitmentDashboard,Default,Average Applicants
+Time to hire,Recruitment Dashboard,890Portal,Timetohire,RecruitmentDashboard,Default,Avg. Time To Hire
+Time to fill,Recruitment Dashboard,890Portal,Timetofill,RecruitmentDashboard,Default,Avg. fill_time_calculation
+1Recruiter,Recruitment Dashboard,890Portal,1Recruiter,RecruitmentDashboard,Default,"Recruiter (Viz), % of Total VizId"
+1Sankey Chart Recruiter to Status,Recruitment Dashboard,890Portal,1SankeyChartRecruitertoStatus,RecruitmentDashboard,Default,"Paded, Recruiter (Viz), Status (Viz), Curve, Job Sizing, t"
+1Status,Recruitment Dashboard,890Portal,1Status,RecruitmentDashboard,Default,"Status (Viz), Recruiter - Selected, % of Total VizId"
+Experience wise Positions,Recruitment Dashboard,890Portal,ExperiencewisePositions,RecruitmentDashboard,Default,"Experience, Count of # of Applicants"
+Gender icon,Recruitment Dashboard,890Portal,Gendericon,RecruitmentDashboard,Default,"Gender1, Measure Names, % of Total Count of Job Id -%, Count of Job Id1"
+Recruitment Type,Recruitment Dashboard,890Portal,RecruitmentType,RecruitmentDashboard,Default,"Recruitment Type, Distinct count of Job Id1"

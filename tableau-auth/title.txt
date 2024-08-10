@@ -1,0 +1,10 @@
+Template matching
+Timeline 3-4 weeks
+
+SME
+Integration and Data extraction
+Data lineage - Shreya GH
+
+Requirement
+1) Sitename, Project name, Work name, Table name, Column name, Joins - Metadata
+Data source and Table name

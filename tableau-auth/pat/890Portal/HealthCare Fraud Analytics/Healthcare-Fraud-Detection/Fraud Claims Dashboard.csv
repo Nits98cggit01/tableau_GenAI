@@ -1,0 +1,11 @@
+Admission Type,Fraud Type,Total Charges
+ELECTIVE ADMISSION,DX does not require Admission,"9,463,793.84"
+ELECTIVE ADMISSION,Unbundling,"773,448.01"
+ELECTIVE ADMISSION,Unnecessary Service,"5,342,783.27"
+ELECTIVE ADMISSION,Upcoding,"604,569.12"
+URGENT,DX does not require Admission,"71,580"
+URGENT,Unbundling,"1,396,583.45"
+URGENT,Unnecessary Service,"1,415,034.4"
+URGENT,Upcoding,"929,138.26"
+Emergency,DX does not require Emergency,"3,769,743.73"
+NEWBORN,Unnecessary Service,"1,404,840.6"

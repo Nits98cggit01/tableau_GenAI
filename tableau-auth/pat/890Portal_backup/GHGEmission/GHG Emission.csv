@@ -1,0 +1,673 @@
+Country,Year,Meaure
+Argentina,1990,323.84
+Argentina,1991,328.83
+Argentina,1992,333.22
+Argentina,1993,335.73
+Argentina,1994,340.81
+Argentina,1995,341.39
+Argentina,1996,344.46
+Argentina,1997,346.24
+Argentina,1998,351.87
+Argentina,1999,357.06
+Argentina,2000,354.96
+Argentina,2001,375.63
+Argentina,2002,378.78
+Argentina,2003,401.76
+Argentina,2004,427.68
+Argentina,2005,420.84
+Argentina,2006,454.28
+Argentina,2007,458.1
+Argentina,2008,468.33
+Argentina,2009,452.69
+Argentina,2010,440.34
+Argentina,2011,450.1
+Argentina,2012,464.88
+Argentina,2013,462.89
+Argentina,2014,456.74
+Argentina,2015,460.21
+Argentina,2016,469.73
+Argentina,2017,469.62
+Australia,1990,511.19
+Australia,1991,511.12
+Australia,1992,513.28
+Australia,1993,512.97
+Australia,1994,516.04
+Australia,1995,524.13
+Australia,1996,517.13
+Australia,1997,528.17
+Australia,1998,554.21
+Australia,1999,589.37
+Australia,2000,608.2
+Australia,2001,700.97
+Australia,2002,688.45
+Australia,2003,615.56
+Australia,2004,659.13
+Australia,2005,616.08
+Australia,2006,630.93
+Australia,2007,622.43
+Australia,2008,591.83
+Australia,2009,612.67
+Australia,2010,573.4
+Australia,2011,612.47
+Australia,2012,613.12
+Australia,2013,522.09
+Australia,2014,530.85
+Australia,2015,529.38
+Australia,2016,507.17
+Australia,2017,553.12
+Brazil,1990,"1,496.37"
+Brazil,1991,"1,523.64"
+Brazil,1992,"1,533.58"
+Brazil,1993,"1,543.78"
+Brazil,1994,"1,560.11"
+Brazil,1995,"1,580.16"
+Brazil,1996,"1,576.14"
+Brazil,1997,"1,606.8"
+Brazil,1998,"1,641.73"
+Brazil,1999,"1,650.9"
+Brazil,2000,"1,647.41"
+Brazil,2001,"1,900.3"
+Brazil,2002,"1,945.72"
+Brazil,2003,"1,959.63"
+Brazil,2004,"2,006.25"
+Brazil,2005,"2,016.51"
+Brazil,2006,"1,422"
+Brazil,2007,"1,467.19"
+Brazil,2008,"1,455.75"
+Brazil,2009,"1,434.3"
+Brazil,2010,"1,541.66"
+Brazil,2011,"1,308.92"
+Brazil,2012,"1,354.86"
+Brazil,2013,"1,372.14"
+Brazil,2014,"1,416"
+Brazil,2015,"1,411.95"
+Brazil,2016,"1,381.11"
+Brazil,2017,"1,392.8"
+Canada,1990,652.57
+Canada,1991,648.5
+Canada,1992,664.43
+Canada,1993,662.45
+Canada,1994,683.03
+Canada,1995,698.44
+Canada,1996,693.09
+Canada,1997,689.92
+Canada,1998,798.91
+Canada,1999,733.18
+Canada,2000,718.46
+Canada,2001,890.59
+Canada,2002,981.61
+Canada,2003,"1,001.53"
+Canada,2004,961.03
+Canada,2005,970.63
+Canada,2006,880.97
+Canada,2007,892.54
+Canada,2008,875.83
+Canada,2009,798.91
+Canada,2010,881.05
+Canada,2011,758.1
+Canada,2012,794.68
+Canada,2013,861.92
+Canada,2014,827.61
+Canada,2015,868.84
+Canada,2016,779.08
+Canada,2017,792.95
+China,1990,"2,901.74"
+China,1991,"3,051.31"
+China,1992,"3,182.64"
+China,1993,"3,405.76"
+China,1994,"3,556.72"
+China,1995,"3,946.17"
+China,1996,"3,980.46"
+China,1997,"3,989.5"
+China,1998,"4,128.98"
+China,1999,"4,079.23"
+China,2000,"4,276.11"
+China,2001,"4,452.24"
+China,2002,"4,763.01"
+China,2003,"5,385.86"
+China,2004,"6,132.29"
+China,2005,"6,857.63"
+China,2006,"7,485.37"
+China,2007,"8,104.47"
+China,2008,"8,398.83"
+China,2009,"8,992.51"
+China,2010,"9,828.01"
+China,2011,"10,784.95"
+China,2012,"11,110.34"
+China,2013,"11,568.63"
+China,2014,"11,583.36"
+China,2015,"11,578.25"
+China,2016,"11,577.98"
+China,2017,"11,780.99"
+European Union (27),1990,"4,253.66"
+European Union (27),1991,"4,176.6"
+European Union (27),1992,"4,033.19"
+European Union (27),1993,"3,960.07"
+European Union (27),1994,"3,943.47"
+European Union (27),1995,"3,993.83"
+European Union (27),1996,"4,100.84"
+European Union (27),1997,"4,022.88"
+European Union (27),1998,"3,983.02"
+European Union (27),1999,"3,908.62"
+European Union (27),2000,"3,907.36"
+European Union (27),2001,"3,921.3"
+European Union (27),2002,"3,902.28"
+European Union (27),2003,"3,992.59"
+European Union (27),2004,"3,985.09"
+European Union (27),2005,"3,954.52"
+European Union (27),2006,"3,933.59"
+European Union (27),2007,"3,898.35"
+European Union (27),2008,"3,805.39"
+European Union (27),2009,"3,530.65"
+European Union (27),2010,"3,610.79"
+European Union (27),2011,"3,416.72"
+European Union (27),2012,"3,356.37"
+European Union (27),2013,"3,276.49"
+European Union (27),2014,"3,130.79"
+European Union (27),2015,"3,186.58"
+European Union (27),2016,"3,187.72"
+European Union (27),2017,"3,201.6"
+Germany,1990,"1,107.24"
+Germany,1991,"1,077.65"
+Germany,1992,"1,029.97"
+Germany,1993,"1,022.27"
+Germany,1994,"1,009.38"
+Germany,1995,"1,002.76"
+Germany,1996,"1,030.92"
+Germany,1997,992.94
+Germany,1998,966.83
+Germany,1999,932.23
+Germany,2000,922.89
+Germany,2001,970.61
+Germany,2002,952.16
+Germany,2003,951.07
+Germany,2004,931.19
+Germany,2005,906.79
+Germany,2006,917.67
+Germany,2007,888.6
+Germany,2008,891.36
+Germany,2009,834.11
+Germany,2010,864.77
+Germany,2011,812.55
+Germany,2012,826.67
+Germany,2013,843.91
+Germany,2014,803.64
+Germany,2015,807.42
+Germany,2016,810.14
+Germany,2017,792.63
+India,1990,"1,184.08"
+India,1991,"1,239.12"
+India,1992,"1,271.34"
+India,1993,"1,303.07"
+India,1994,"1,349.41"
+India,1995,"1,415.03"
+India,1996,"1,460.58"
+India,1997,"1,519.01"
+India,1998,"1,553.2"
+India,1999,"1,631.2"
+India,2000,"1,669.14"
+India,2001,"1,575.11"
+India,2002,"1,596.86"
+India,2003,"1,645.7"
+India,2004,"1,735.12"
+India,2005,"1,806.21"
+India,2006,"1,941.43"
+India,2007,"2,087.76"
+India,2008,"2,185.08"
+India,2009,"2,339.28"
+India,2010,"2,449.3"
+India,2011,"2,798.04"
+India,2012,"2,947.94"
+India,2013,"3,003.54"
+India,2014,"3,175.79"
+India,2015,"3,188.03"
+India,2016,"3,230.06"
+India,2017,"3,356.7"
+Indonesia,1990,"1,509.17"
+Indonesia,1991,"1,526.51"
+Indonesia,1992,"1,547.09"
+Indonesia,1993,"1,563.34"
+Indonesia,1994,"1,579.97"
+Indonesia,1995,"1,610.76"
+Indonesia,1996,"1,399.99"
+Indonesia,1997,"2,386.18"
+Indonesia,1998,"1,594.09"
+Indonesia,1999,"1,477.87"
+Indonesia,2000,"1,406.12"
+Indonesia,2001,"1,663.53"
+Indonesia,2002,"2,198.69"
+Indonesia,2003,"1,822.33"
+Indonesia,2004,"2,205"
+Indonesia,2005,"1,911.65"
+Indonesia,2006,"2,680.4"
+Indonesia,2007,"2,055.89"
+Indonesia,2008,"2,043.38"
+Indonesia,2009,"2,478.22"
+Indonesia,2010,"2,079.39"
+Indonesia,2011,"2,335.3"
+Indonesia,2012,"2,357.19"
+Indonesia,2013,"2,294.34"
+Indonesia,2014,"2,729.18"
+Indonesia,2015,"2,776.53"
+Indonesia,2016,"2,228.89"
+Indonesia,2017,"2,275.4"
+Iran,1990,260.82
+Iran,1991,301.15
+Iran,1992,322.12
+Iran,1993,320.42
+Iran,1994,352.95
+Iran,1995,370.16
+Iran,1996,384.38
+Iran,1997,401.82
+Iran,1998,409.92
+Iran,1999,447.77
+Iran,2000,466.6
+Iran,2001,480.09
+Iran,2002,504.85
+Iran,2003,534.11
+Iran,2004,571.05
+Iran,2005,609.86
+Iran,2006,658.34
+Iran,2007,696.76
+Iran,2008,710.27
+Iran,2009,734.51
+Iran,2010,740.77
+Iran,2011,817.82
+Iran,2012,828.15
+Iran,2013,849.06
+Iran,2014,861.3
+Iran,2015,853.59
+Iran,2016,862.87
+Iran,2017,881.81
+Japan,1990,"1,108.77"
+Japan,1991,"1,123.25"
+Japan,1992,"1,136.55"
+Japan,1993,"1,129.03"
+Japan,1994,"1,186.24"
+Japan,1995,"1,201.26"
+Japan,1996,"1,215.37"
+Japan,1997,"1,203.24"
+Japan,1998,"1,156.11"
+Japan,1999,"1,181.75"
+Japan,2000,"1,198.01"
+Japan,2001,"1,210.3"
+Japan,2002,"1,241.98"
+Japan,2003,"1,249.79"
+Japan,2004,"1,241.6"
+Japan,2005,"1,242.64"
+Japan,2006,"1,117.3"
+Japan,2007,"1,153.2"
+Japan,2008,"1,086.29"
+Japan,2009,"1,026.58"
+Japan,2010,"1,083.09"
+Japan,2011,"1,289.53"
+Japan,2012,"1,331.69"
+Japan,2013,"1,343.27"
+Japan,2014,"1,305.64"
+Japan,2015,"1,269.61"
+Japan,2016,"1,262.19"
+Japan,2017,"1,239.78"
+Mexico,1990,414.07
+Mexico,1991,432.07
+Mexico,1992,434.94
+Mexico,1993,454.62
+Mexico,1994,480.22
+Mexico,1995,461.21
+Mexico,1996,485.49
+Mexico,1997,513.51
+Mexico,1998,549.35
+Mexico,1999,527.94
+Mexico,2000,554.38
+Mexico,2001,548.7
+Mexico,2002,555.02
+Mexico,2003,582.23
+Mexico,2004,581.94
+Mexico,2005,609.17
+Mexico,2006,624.5
+Mexico,2007,645.69
+Mexico,2008,676.44
+Mexico,2009,660.37
+Mexico,2010,663.2
+Mexico,2011,679.56
+Mexico,2012,669.68
+Mexico,2013,665.44
+Mexico,2014,653.91
+Mexico,2015,680.48
+Mexico,2016,694.52
+Mexico,2017,684.55
+Nigeria,1990,386.42
+Nigeria,1991,396.61
+Nigeria,1992,408.78
+Nigeria,1993,408.67
+Nigeria,1994,407.33
+Nigeria,1995,401.92
+Nigeria,1996,413.85
+Nigeria,1997,404.53
+Nigeria,1998,396.38
+Nigeria,1999,387.45
+Nigeria,2000,384.78
+Nigeria,2001,350.31
+Nigeria,2002,354.15
+Nigeria,2003,361.83
+Nigeria,2004,364.4
+Nigeria,2005,382.11
+Nigeria,2006,401.65
+Nigeria,2007,399.67
+Nigeria,2008,403.3
+Nigeria,2009,383.38
+Nigeria,2010,406.25
+Nigeria,2011,437.19
+Nigeria,2012,441.76
+Nigeria,2013,456.16
+Nigeria,2014,465.58
+Nigeria,2015,461.72
+Nigeria,2016,475.77
+Nigeria,2017,483.18
+Pakistan,1990,180.09
+Pakistan,1991,181.05
+Pakistan,1992,190.25
+Pakistan,1993,200.06
+Pakistan,1994,206.73
+Pakistan,1995,217.2
+Pakistan,1996,224.23
+Pakistan,1997,231.15
+Pakistan,1998,234.96
+Pakistan,1999,247.53
+Pakistan,2000,249.64
+Pakistan,2001,251.77
+Pakistan,2002,258.2
+Pakistan,2003,266.02
+Pakistan,2004,282.97
+Pakistan,2005,291.27
+Pakistan,2006,312.11
+Pakistan,2007,328.89
+Pakistan,2008,331.84
+Pakistan,2009,342.23
+Pakistan,2010,336.47
+Pakistan,2011,351.78
+Pakistan,2012,355.6
+Pakistan,2013,366.02
+Pakistan,2014,379.65
+Pakistan,2015,394.39
+Pakistan,2016,417.96
+Pakistan,2017,443.27
+Russia,1990,"3,559.43"
+Russia,1991,"3,463.05"
+Russia,1992,"3,223.12"
+Russia,1993,"2,965.8"
+Russia,1994,"2,682.65"
+Russia,1995,"2,602.13"
+Russia,1996,"2,508.31"
+Russia,1997,"2,317.88"
+Russia,1998,"2,370.68"
+Russia,1999,"2,352.93"
+Russia,2000,"2,418.98"
+Russia,2001,"2,329.95"
+Russia,2002,"2,381.2"
+Russia,2003,"2,552.06"
+Russia,2004,"2,443.69"
+Russia,2005,"2,492.3"
+Russia,2006,"2,379.41"
+Russia,2007,"2,352.03"
+Russia,2008,"2,616.58"
+Russia,2009,"2,281.05"
+Russia,2010,"2,401.69"
+Russia,2011,"2,478.24"
+Russia,2012,"2,598.33"
+Russia,2013,"2,468.51"
+Russia,2014,"2,479.35"
+Russia,2015,"2,356.08"
+Russia,2016,"2,434.46"
+Russia,2017,"2,460.27"
+Saudi Arabia,1990,190.63
+Saudi Arabia,1991,212.83
+Saudi Arabia,1992,227.52
+Saudi Arabia,1993,235.98
+Saudi Arabia,1994,250.09
+Saudi Arabia,1995,255.07
+Saudi Arabia,1996,269.71
+Saudi Arabia,1997,253.57
+Saudi Arabia,1998,271.9
+Saudi Arabia,1999,278.67
+Saudi Arabia,2000,291.54
+Saudi Arabia,2001,297.9
+Saudi Arabia,2002,318.23
+Saudi Arabia,2003,331.53
+Saudi Arabia,2004,349.92
+Saudi Arabia,2005,366.47
+Saudi Arabia,2006,389.49
+Saudi Arabia,2007,412.57
+Saudi Arabia,2008,450.11
+Saudi Arabia,2009,470.77
+Saudi Arabia,2010,514.56
+Saudi Arabia,2011,534.21
+Saudi Arabia,2012,568.1
+Saudi Arabia,2013,585.81
+Saudi Arabia,2014,629.39
+Saudi Arabia,2015,660.42
+Saudi Arabia,2016,664.23
+Saudi Arabia,2017,656.31
+South Africa,1990,316.32
+South Africa,1991,312.26
+South Africa,1992,309.22
+South Africa,1993,317.66
+South Africa,1994,323.61
+South Africa,1995,334.13
+South Africa,1996,342.81
+South Africa,1997,356.22
+South Africa,1998,364.1
+South Africa,1999,342.78
+South Africa,2000,345.97
+South Africa,2001,381.36
+South Africa,2002,397.74
+South Africa,2003,418.84
+South Africa,2004,446.3
+South Africa,2005,447.96
+South Africa,2006,448.9
+South Africa,2007,469.18
+South Africa,2008,501.12
+South Africa,2009,481.38
+South Africa,2010,504.03
+South Africa,2011,487.84
+South Africa,2012,506.78
+South Africa,2013,515.9
+South Africa,2014,529.26
+South Africa,2015,505.05
+South Africa,2016,503.05
+South Africa,2017,515.8
+South Korea,1990,252.24
+South Korea,1991,277.58
+South Korea,1992,302.14
+South Korea,1993,333
+South Korea,1994,360.61
+South Korea,1995,392.98
+South Korea,1996,420.9
+South Korea,1997,446.74
+South Korea,1998,381.93
+South Korea,1999,419.79
+South Korea,2000,477.35
+South Korea,2001,485.28
+South Korea,2002,478.12
+South Korea,2003,486.03
+South Korea,2004,510.13
+South Korea,2005,505.55
+South Korea,2006,508.68
+South Korea,2007,517.5
+South Korea,2008,531.57
+South Korea,2009,545.24
+South Korea,2010,598.01
+South Korea,2011,631.29
+South Korea,2012,636.13
+South Korea,2013,635.5
+South Korea,2014,624.8
+South Korea,2015,646.29
+South Korea,2016,657.41
+South Korea,2017,670.81
+Thailand,1990,174.5
+Thailand,1991,186.5
+Thailand,1992,198.4
+Thailand,1993,214.5
+Thailand,1994,229.31
+Thailand,1995,248.5
+Thailand,1996,267.83
+Thailand,1997,275.06
+Thailand,1998,256.84
+Thailand,1999,266.64
+Thailand,2000,267.94
+Thailand,2001,272.25
+Thailand,2002,284.79
+Thailand,2003,297.25
+Thailand,2004,323.24
+Thailand,2005,327.5
+Thailand,2006,324.71
+Thailand,2007,341.31
+Thailand,2008,343.68
+Thailand,2009,343.27
+Thailand,2010,363.49
+Thailand,2011,377.24
+Thailand,2012,400.85
+Thailand,2013,411.75
+Thailand,2014,409.18
+Thailand,2015,410.54
+Thailand,2016,418.07
+Thailand,2017,431.89
+Turkey,1990,184.8
+Turkey,1991,187.26
+Turkey,1992,194.75
+Turkey,1993,201.26
+Turkey,1994,196.44
+Turkey,1995,211.02
+Turkey,1996,228.73
+Turkey,1997,237.86
+Turkey,1998,239.06
+Turkey,1999,238.96
+Turkey,2000,262.95
+Turkey,2001,232.37
+Turkey,2002,242.67
+Turkey,2003,254.55
+Turkey,2004,260.87
+Turkey,2005,273.38
+Turkey,2006,277.77
+Turkey,2007,307.69
+Turkey,2008,306.25
+Turkey,2009,309.77
+Turkey,2010,319.55
+Turkey,2011,332.17
+Turkey,2012,346.2
+Turkey,2013,337.43
+Turkey,2014,362.28
+Turkey,2015,369.08
+Turkey,2016,396.03
+Turkey,2017,437.9
+United Kingdom,1990,758.02
+United Kingdom,1991,771.74
+United Kingdom,1992,748.79
+United Kingdom,1993,731.64
+United Kingdom,1994,721.61
+United Kingdom,1995,711.79
+United Kingdom,1996,732.9
+United Kingdom,1997,710.09
+United Kingdom,1998,706.01
+United Kingdom,1999,679.28
+United Kingdom,2000,679.49
+United Kingdom,2001,687.32
+United Kingdom,2002,668.24
+United Kingdom,2003,677.13
+United Kingdom,2004,670.79
+United Kingdom,2005,664.45
+United Kingdom,2006,661.66
+United Kingdom,2007,645.66
+United Kingdom,2008,624.23
+United Kingdom,2009,568.83
+United Kingdom,2010,581.81
+United Kingdom,2011,538.09
+United Kingdom,2012,559.8
+United Kingdom,2013,541.18
+United Kingdom,2014,500.95
+United Kingdom,2015,485.07
+United Kingdom,2016,462.81
+United Kingdom,2017,449.08
+United States,1990,"5,669.57"
+United States,1991,"5,627.93"
+United States,1992,"5,709.22"
+United States,1993,"5,819.3"
+United States,1994,"5,906.34"
+United States,1995,"5,970.68"
+United States,1996,"6,069.33"
+United States,1997,"6,302.62"
+United States,1998,"6,345.71"
+United States,1999,"6,365.58"
+United States,2000,"6,495.09"
+United States,2001,"6,439.58"
+United States,2002,"6,321.63"
+United States,2003,"6,353.21"
+United States,2004,"6,500.25"
+United States,2005,"6,477.62"
+United States,2006,"6,388.91"
+United States,2007,"6,601.15"
+United States,2008,"6,267.37"
+United States,2009,"5,865.85"
+United States,2010,"6,111.83"
+United States,2011,"6,235.82"
+United States,2012,"5,936.1"
+United States,2013,"6,056.33"
+United States,2014,"6,097.71"
+United States,2015,"5,973.16"
+United States,2016,"5,833.01"
+United States,2017,"5,766.92"
+World,1990,"34,964.58"
+World,1991,"35,125.92"
+World,1992,"34,982.15"
+World,1993,"35,080.3"
+World,1994,"35,283.88"
+World,1995,"36,004.23"
+World,1996,"36,022.1"
+World,1997,"37,338.36"
+World,1998,"36,981.63"
+World,1999,"36,817.13"
+World,2000,"37,438.04"
+World,2001,"38,396.69"
+World,2002,"39,855.92"
+World,2003,"40,703.74"
+World,2004,"42,477.66"
+World,2005,"43,360.31"
+World,2006,"43,739.49"
+World,2007,"44,590.03"
+World,2008,"44,953.73"
+World,2009,"44,907.04"
+World,2010,"46,637.83"
+World,2011,"47,915.71"
+World,2012,"48,477.53"
+World,2013,"49,037.46"
+World,2014,"49,494.56"
+World,2015,"49,828.88"
+World,2016,"49,312.19"
+World,2017,"49,947.42"
+Zambia,1990,485.43
+Zambia,1991,484.96
+Zambia,1992,484.28
+Zambia,1993,483
+Zambia,1994,481.44
+Zambia,1995,478.95
+Zambia,1996,444.46
+Zambia,1997,405.54
+Zambia,1998,411.87
+Zambia,1999,371.45
+Zambia,2000,412.78
+Zambia,2001,402.1
+Zambia,2002,453.14
+Zambia,2003,474.67
+Zambia,2004,488.42
+Zambia,2005,565.61
+Zambia,2006,482.28
+Zambia,2007,452.65
+Zambia,2008,471.05
+Zambia,2009,412.65
+Zambia,2010,460.49
+Zambia,2011,432.46
+Zambia,2012,455.21
+Zambia,2013,468.32
+Zambia,2014,440.83
+Zambia,2015,473.3
+Zambia,2016,495.17
+Zambia,2017,495.99

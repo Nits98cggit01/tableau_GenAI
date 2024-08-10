@@ -1,0 +1,9 @@
+,Database_connection,Database Name,Table Name,Column Name
+0,"excel-direct,excel-direct","VPN - Copy.XLSX,SLA.XLSX",Sheet1,Time
+1,"excel-direct,excel-direct","VPN - Copy.XLSX,SLA.XLSX",Sheet1,Closed
+2,"excel-direct,excel-direct","VPN - Copy.XLSX,SLA.XLSX",Sheet1,Date
+3,"excel-direct,excel-direct","VPN - Copy.XLSX,SLA.XLSX",Sheet1,Date
+4,"excel-direct,excel-direct","VPN - Copy.XLSX,SLA.XLSX",Sheet1,Location
+5,"excel-direct,excel-direct","VPN - Copy.XLSX,SLA.XLSX",Sheet1,Location
+6,"excel-direct,excel-direct","VPN - Copy.XLSX,SLA.XLSX",Sheet1,SLA Met?
+7,"excel-direct,excel-direct","VPN - Copy.XLSX,SLA.XLSX",Sheet1,Still Open
